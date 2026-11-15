@@ -1,0 +1,12 @@
+{
+  "engine": "AERIS Future Rotation Spatial Map Builder",
+  "target_year": 2027,
+  "locations_processed": 104,
+  "geojson_features": 104,
+  "mean_future_score": 91.64,
+  "mean_baseline_score": 91.371,
+  "mean_score_change": 0.267,
+  "positive_score_changes": 104,
+  "negative_score_changes": 0,
+  "geographic_note": "Sampled Nashik-area coordinates, not an official district boundary."
+}

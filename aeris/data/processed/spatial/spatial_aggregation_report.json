@@ -1,0 +1,40 @@
+{
+  "engine": "SEAE-01",
+  "study_area": "Nashik sampled study area",
+  "source_samples": 105,
+  "grid_rows": 4,
+  "grid_columns": 2,
+  "total_cells": 8,
+  "cell_size_km": 29.72,
+  "environmental_variables": 68,
+  "profile_statistics": [
+    "mean",
+    "median",
+    "minimum",
+    "maximum",
+    "standard_deviation",
+    "valid_count",
+    "coverage_percentage"
+  ],
+  "cell_sample_counts": {
+    "G101": 16,
+    "G102": 12,
+    "G201": 14,
+    "G202": 14,
+    "G301": 9,
+    "G302": 12,
+    "G401": 12,
+    "G402": 16
+  },
+  "outputs": {
+    "profiles": "E:\\TrialShit\\aeris\\data\\processed\\spatial\\grid_cell_environmental_profiles.csv",
+    "assignments": "E:\\TrialShit\\aeris\\data\\processed\\spatial\\sample_grid_assignments.csv",
+    "geojson": "E:\\TrialShit\\aeris\\data\\processed\\spatial\\nashik_environmental_grid.geojson"
+  },
+  "limitations": [
+    "Cell profiles aggregate the 105 sampled points, not every raster pixel.",
+    "Climate variables originate from one Nashik city point.",
+    "SMAP has substantially coarser native resolution than SoilGrids.",
+    "The grid is a research management grid, not an official district boundary."
+  ]
+}

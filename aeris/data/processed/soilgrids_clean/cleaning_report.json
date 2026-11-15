@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "input_rasters": 18,
+  "cleaned_rasters": 18,
+  "nodata_value": -9999.0,
+  "zero_values_converted": 119502,
+  "results": [
+    {
+      "file": "cec_0-5cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\cec_0-5cm.tif"
+    },
+    {
+      "file": "cec_15-30cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\cec_15-30cm.tif"
+    },
+    {
+      "file": "cec_5-15cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\cec_5-15cm.tif"
+    },
+    {
+      "file": "clay_0-5cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\clay_0-5cm.tif"
+    },
+    {
+      "file": "clay_15-30cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\clay_15-30cm.tif"
+    },
+    {
+      "file": "clay_5-15cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\clay_5-15cm.tif"
+    },
+    {
+      "file": "nitrogen_0-5cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\nitrogen_0-5cm.tif"
+    },
+    {
+      "file": "nitrogen_15-30cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\nitrogen_15-30cm.tif"
+    },
+    {
+      "file": "nitrogen_5-15cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\nitrogen_5-15cm.tif"
+    },
+    {
+      "file": "phh2o_0-5cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\phh2o_0-5cm.tif"
+    },
+    {
+      "file": "phh2o_15-30cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\phh2o_15-30cm.tif"
+    },
+    {
+      "file": "phh2o_5-15cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\phh2o_5-15cm.tif"
+    },
+    {
+      "file": "sand_0-5cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\sand_0-5cm.tif"
+    },
+    {
+      "file": "sand_15-30cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\sand_15-30cm.tif"
+    },
+    {
+      "file": "sand_5-15cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\sand_5-15cm.tif"
+    },
+    {
+      "file": "soc_0-5cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\soc_0-5cm.tif"
+    },
+    {
+      "file": "soc_15-30cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\soc_15-30cm.tif"
+    },
+    {
+      "file": "soc_5-15cm.tif",
+      "zero_pixels_converted": 6639,
+      "remaining_valid_pixels": 156676,
+      "output": "E:\\TrialShit\\aeris\\data\\processed\\soilgrids_clean\\soc_5-15cm.tif"
+    }
+  ]
+}

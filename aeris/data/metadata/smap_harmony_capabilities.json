@@ -1,0 +1,451 @@
+{
+  "conceptId": "C3480440870-NSIDC_CPRD",
+  "shortName": "SPL4SMGP",
+  "summary": {
+    "subsetting": {
+      "bbox": true,
+      "dimension": true,
+      "shape": true,
+      "temporal": true,
+      "variable": true
+    },
+    "reprojection": {
+      "supported": true,
+      "supportedProjections": [
+        {
+          "name": "Geographic",
+          "crs": "EPSG:4326"
+        }
+      ],
+      "interpolationMethods": []
+    },
+    "averaging": {
+      "time": false,
+      "area": false
+    },
+    "concatenation": false,
+    "outputFormats": [
+      {
+        "name": "GEOTIFF",
+        "mimeType": "image/tiff"
+      },
+      {
+        "name": "NETCDF-4",
+        "mimeType": "application/netcdf"
+      }
+    ]
+  },
+  "services": [
+    {
+      "name": "sds/HOSS-regridder-reformatter",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/S3671941188-XYZ_PROV",
+      "capabilities": {
+        "subsetting": {
+          "bbox": true,
+          "dimension": true,
+          "shape": true,
+          "temporal": true,
+          "variable": true
+        },
+        "reprojection": {
+          "supported": true,
+          "supportedProjections": [
+            {
+              "name": "Geographic",
+              "crs": "EPSG:4326"
+            }
+          ],
+          "interpolationMethods": []
+        },
+        "averaging": {
+          "time": false,
+          "area": false
+        },
+        "concatenation": false,
+        "outputFormats": [
+          {
+            "name": "NETCDF-4",
+            "mimeType": "application/netcdf"
+          },
+          {
+            "name": "GEOTIFF",
+            "mimeType": "image/tiff"
+          }
+        ]
+      }
+    }
+  ],
+  "variables": [
+    {
+      "name": "cell_column",
+      "longName": "The column index of each cell in the cylindrical 9 km Earth-fixed EASE-Grid 2.0. Type is Unsigned32.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707346807-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "cell_lat",
+      "longName": "The geodetic latitude of the center of each cell in the cylindrical 9 km Earth-fixed EASE-Grid 2.0. Zero latitude represents the Equator. Positive latitudes represent locations North of the Equator. Negative latitudes represent locations South of the Equator.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707346841-NSIDC_CPRD",
+      "units": "degrees",
+      "scienceKeywords": []
+    },
+    {
+      "name": "cell_lon",
+      "longName": "The longitude of the center of each cell in the cylindrical 9 km Earth-fixed EASE-Grid 2.0. Zero longitude represents the Prime Meridian. Positive longitudes represent locations to the East of the Prime Meridian. Negative longitudes represent locations to the West of the Prime Meridian.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707346884-NSIDC_CPRD",
+      "units": "degrees",
+      "scienceKeywords": []
+    },
+    {
+      "name": "cell_row",
+      "longName": "The row index of each cell in the cylindrical 9 km Earth-fixed EASE-Grid 2.0. Type is Unsigned32.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707346911-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "EASE2_global_projection",
+      "longName": "EASE2_global_projection",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707346799-NSIDC_CPRD",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/baseflow_flux",
+      "longName": "Baseflow",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347087-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/depth_to_water_table_from_surface",
+      "longName": "Depth to water table from surface.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347113-NSIDC_CPRD",
+      "units": "m",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/free_surface_water_on_peat_flux",
+      "longName": "Free surface water flux on peatlands.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347127-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/heat_flux_ground",
+      "longName": "Downward ground heat flux into layer 1 of soil heat diffusion model",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347231-NSIDC_CPRD",
+      "units": "W m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/heat_flux_latent",
+      "longName": "Latent heat flux from land (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347235-NSIDC_CPRD",
+      "units": "W m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/heat_flux_sensible",
+      "longName": "Sensible heat flux from land (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347242-NSIDC_CPRD",
+      "units": "W m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/height_lowatmmodlay",
+      "longName": "Center height of lowest atmospheric model layer",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347250-NSIDC_CPRD",
+      "units": "m",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/land_evapotranspiration_flux",
+      "longName": "Evapotranspiration from land (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347307-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/land_fraction_saturated",
+      "longName": "Fractional land area that is saturated and snow-free (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347338-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/land_fraction_snow_covered",
+      "longName": "Fractional land area that is snow-covered (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347563-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/land_fraction_unsaturated",
+      "longName": "Fractional land area that is unsaturated (but non-wilting) and snow-free (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347627-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/land_fraction_wilting",
+      "longName": "Fractional land area that is wilting and snow-free (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347675-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/leaf_area_index",
+      "longName": "Vegetation leaf area index",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347743-NSIDC_CPRD",
+      "units": "m2 m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/mwrtm_vegopacity",
+      "longName": "Microwave radiative transfer model: Vegetation opacity.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348020-NSIDC_CPRD",
+      "units": "1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/net_downward_longwave_flux",
+      "longName": "Net downward longwave flux over land (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348069-NSIDC_CPRD",
+      "units": "W m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/net_downward_shortwave_flux",
+      "longName": "Net downward shortwave flux over land (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348137-NSIDC_CPRD",
+      "units": "W m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/overland_runoff_flux",
+      "longName": "Overland (surface) runoff (including throughflow - excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348183-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/precipitation_total_surface_flux",
+      "longName": "Total surface precipitation (incl. snow fall)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348227-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/radiation_longwave_absorbed_flux",
+      "longName": "Absorbed (downward) longwave radiation at the surface",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348271-NSIDC_CPRD",
+      "units": "W m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/radiation_shortwave_downward_flux",
+      "longName": "Downward shortwave flux incident on the surface",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348298-NSIDC_CPRD",
+      "units": "W m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_profile",
+      "longName": "Total profile soil moisture (0 cm to model bedrock depth)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348342-NSIDC_CPRD",
+      "units": "m3 m-3",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_profile_pctl",
+      "longName": "Total profile soil moisture (0 cm to model bedrock depth; percentile units)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348371-NSIDC_CPRD",
+      "units": "percent",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_profile_wetness",
+      "longName": "Total profile soil wetness (0 cm to model bedrock depth; wetness units). Soil wetness units (dimensionless) vary between 0 and 1, indicating relative saturation between completely dry conditions and completely saturated conditions, respectively.  See also Appendix E in the PSD.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348406-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_rootzone",
+      "longName": "Root zone soil moisture (0-100 cm)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348437-NSIDC_CPRD",
+      "units": "m3 m-3",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_rootzone_pctl",
+      "longName": "Root zone soil moisture (0-100 cm; percentile units)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348567-NSIDC_CPRD",
+      "units": "percent",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_rootzone_wetness",
+      "longName": "Root zone soil wetness (0-100 cm; wetness units). Soil wetness units (dimensionless) vary between 0 and 1, indicating relative saturation between completely dry conditions and completely saturated conditions, respectively.  See also Appendix E in the PSD.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348669-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_surface",
+      "longName": "Top layer soil moisture (0-5 cm)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348718-NSIDC_CPRD",
+      "units": "m3 m-3",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/sm_surface_wetness",
+      "longName": "Top layer soil wetness (0-5 cm; wetness units). Soil wetness units (dimensionless) vary between 0 and 1, indicating relative saturation between completely dry conditions and completely saturated conditions, respectively.  See also Appendix E in the PSD.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348782-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/snow_depth",
+      "longName": "Snow depth within snow-covered land fraction of grid cell (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348814-NSIDC_CPRD",
+      "units": "m",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/snow_mass",
+      "longName": "Average snow mass (or snow water equivalent) over land fraction of grid cell (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707348857-NSIDC_CPRD",
+      "units": "kg m-2",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/snow_melt_flux",
+      "longName": "Snowmelt (excluding areas of open water and permanent ice)",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349026-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/snowfall_surface_flux",
+      "longName": "Surface snow fall",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349079-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/soil_temp_layer1",
+      "longName": "Soil temperature in layer 1 of soil heat diffusion model",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349117-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/soil_temp_layer2",
+      "longName": "Soil temperature in layer 2 of soil heat diffusion model",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349209-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/soil_temp_layer3",
+      "longName": "Soil temperature in layer 3 of soil heat diffusion model",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349245-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/soil_temp_layer4",
+      "longName": "Soil temperature in layer 4 of soil heat diffusion model",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349284-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/soil_temp_layer5",
+      "longName": "Soil temperature in layer 5 of soil heat diffusion model",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349411-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/soil_temp_layer6",
+      "longName": "Soil temperature in layer 6 of soil heat diffusion model",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349479-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/soil_water_infiltration_flux",
+      "longName": "Soil water infiltration rate",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349517-NSIDC_CPRD",
+      "units": "kg m-2 s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/specific_humidity_lowatmmodlay",
+      "longName": "Air specific humidity at center height of lowest atmospheric model layer",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349575-NSIDC_CPRD",
+      "units": "kg kg-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/surface_pressure",
+      "longName": "Surface pressure",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349621-NSIDC_CPRD",
+      "units": "Pa",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/surface_temp",
+      "longName": "Mean land surface temperature (incl. snow-covered land area). Excluding areas of open water and permanent ice.",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349651-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/temp_lowatmmodlay",
+      "longName": "Air temperature at center height of lowest atmospheric model layer",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349676-NSIDC_CPRD",
+      "units": "K",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/vegetation_greenness_fraction",
+      "longName": "Vegetation \"greenness\" or fraction of transpiring leaves averaged over the land area (excluding areas of open water and permanent ice) of the grid cell",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349706-NSIDC_CPRD",
+      "units": "dimensionless",
+      "scienceKeywords": []
+    },
+    {
+      "name": "Geophysical_Data/windspeed_lowatmmodlay",
+      "longName": "Surface wind speed at center height of lowest atmospheric model layer",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707349729-NSIDC_CPRD",
+      "units": "m s-1",
+      "scienceKeywords": []
+    },
+    {
+      "name": "time",
+      "longName": "Time",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707346958-NSIDC_CPRD",
+      "units": "seconds since 2000-01-01 11:58:55.816",
+      "scienceKeywords": []
+    },
+    {
+      "name": "x",
+      "longName": "X coordinate of cell center in EASE 2.0 global projection",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347023-NSIDC_CPRD",
+      "units": "m",
+      "scienceKeywords": []
+    },
+    {
+      "name": "y",
+      "longName": "Y coordinate of cell center in EASE 2.0 global projection",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/V3707347064-NSIDC_CPRD",
+      "units": "m",
+      "scienceKeywords": []
+    }
+  ],
+  "capabilitiesVersion": "3"
+}

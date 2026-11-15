@@ -1,0 +1,4322 @@
+[
+  {
+    "cell_id": "D0101",
+    "generation": 1,
+    "best_fitness": 94.9,
+    "mean_fitness": 87.8174,
+    "unique_sequences": 75,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 2,
+    "best_fitness": 94.9,
+    "mean_fitness": 90.0661,
+    "unique_sequences": 51,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 3,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.4484,
+    "unique_sequences": 39,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 4,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2255,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 5,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6751,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 6,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2895,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 7,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5503,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 8,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9968,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 9,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9079,
+    "unique_sequences": 16,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 10,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.031,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 11,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5581,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 12,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3588,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 13,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6171,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 14,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.8789,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 15,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4874,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 16,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.38,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 17,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3021,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 18,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4677,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 19,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.996,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 20,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1175,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 21,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.2214,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 22,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1605,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 23,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6624,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 24,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6919,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 25,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4119,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 26,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8115,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 27,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.767,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 28,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3924,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 29,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.3576,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 30,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.258,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 31,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6791,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 32,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.6463,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 33,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6231,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 34,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.0128,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 35,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.0667,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 36,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1596,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 37,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.2076,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 38,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4359,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 39,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.2355,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 40,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.8097,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 41,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5122,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 42,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2308,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 43,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2209,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 44,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.9931,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 45,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.226,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 46,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4315,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 47,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9836,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 48,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8689,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 49,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.026,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 50,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3915,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 51,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5592,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 52,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.2223,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 53,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.8973,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 54,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.0949,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 55,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.3275,
+    "unique_sequences": 14,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 56,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6388,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 57,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9761,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 58,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6649,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 59,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5094,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0101",
+    "generation": 60,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.1924,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 1,
+    "best_fitness": 92.77,
+    "mean_fitness": 84.685,
+    "unique_sequences": 74,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 2,
+    "best_fitness": 92.77,
+    "mean_fitness": 87.6921,
+    "unique_sequences": 59,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 3,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9967,
+    "unique_sequences": 47,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 4,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8814,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 5,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9875,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 6,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.482,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 7,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8225,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 8,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2738,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 9,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1283,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 10,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4711,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 11,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3815,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 12,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1769,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 13,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7173,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 14,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0519,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 15,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3495,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 16,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0385,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 17,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8697,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 18,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3878,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 19,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4085,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 20,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2499,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 21,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1775,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 22,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1844,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 23,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.3058,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 24,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.6074,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 25,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7348,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 26,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8757,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 27,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5051,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 28,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2601,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 29,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8363,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 30,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.2885,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 31,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9013,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 32,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.496,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 33,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.6949,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 34,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.8391,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 35,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.988,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 36,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.5945,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 37,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.6001,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 38,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2805,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 39,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2291,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 40,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4326,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 41,
+    "best_fitness": 92.77,
+    "mean_fitness": 91.3676,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 42,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0658,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 43,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.5583,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 44,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.5425,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 45,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.3544,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 46,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2463,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 47,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.175,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 48,
+    "best_fitness": 92.77,
+    "mean_fitness": 91.0855,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 49,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9052,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 50,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3007,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 51,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.6672,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 52,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.5135,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 53,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9356,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 54,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0039,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 55,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4299,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 56,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.3796,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 57,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2064,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 58,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8246,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 59,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1379,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0102",
+    "generation": 60,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9618,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Onion -> Tomato"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 1,
+    "best_fitness": 94.64,
+    "mean_fitness": 88.6691,
+    "unique_sequences": 72,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 2,
+    "best_fitness": 94.64,
+    "mean_fitness": 89.9925,
+    "unique_sequences": 49,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 3,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.9716,
+    "unique_sequences": 41,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 4,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2302,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 5,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6968,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 6,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6814,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 7,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5456,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 8,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2623,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 9,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.0953,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 10,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2068,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 11,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7921,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 12,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.0823,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 13,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.205,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 14,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.931,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 15,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7385,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 16,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7081,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 17,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2458,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 18,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2435,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 19,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.7215,
+    "unique_sequences": 35,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 20,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7456,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 21,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.4046,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 22,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6671,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 23,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.0819,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 24,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.5503,
+    "unique_sequences": 38,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 25,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.4195,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 26,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6891,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 27,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5599,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 28,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.1364,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 29,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5801,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 30,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.3664,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 31,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7345,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 32,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7271,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 33,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.4091,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 34,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5884,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 35,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.0604,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 36,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.75,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 37,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6874,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 38,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7255,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 39,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.8983,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 40,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6334,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 41,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.1824,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 42,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.3697,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 43,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.495,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 44,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.8663,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 45,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.0988,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 46,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.837,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 47,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7393,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 48,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5574,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 49,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.3726,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 50,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.4405,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 51,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2231,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 52,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.2051,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 53,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.397,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 54,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6058,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 55,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2533,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 56,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5284,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 57,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.1628,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 58,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.4625,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 59,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2656,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0103",
+    "generation": 60,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6105,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 1,
+    "best_fitness": 94.9,
+    "mean_fitness": 86.5705,
+    "unique_sequences": 70,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 2,
+    "best_fitness": 94.9,
+    "mean_fitness": 88.9154,
+    "unique_sequences": 64,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 3,
+    "best_fitness": 94.9,
+    "mean_fitness": 89.2536,
+    "unique_sequences": 52,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 4,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.6392,
+    "unique_sequences": 40,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 5,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.8389,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 6,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8626,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 7,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9659,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 8,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.0399,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 9,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.9986,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 10,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5943,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 11,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.7,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 12,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.4728,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 13,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.8165,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 14,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.0686,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 15,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9539,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 16,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.004,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 17,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.7955,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 18,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2174,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 19,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5261,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 20,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3211,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 21,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4885,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 22,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2975,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 23,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8003,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 24,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4143,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 25,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1121,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 26,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3911,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 27,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1046,
+    "unique_sequences": 15,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 28,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5725,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 29,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3608,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 30,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.0017,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 31,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.8491,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 32,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.1487,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 33,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.1206,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 34,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2927,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 35,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6764,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 36,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.7588,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 37,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1059,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 38,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6069,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 39,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.1743,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 40,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.2704,
+    "unique_sequences": 14,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 41,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.3078,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 42,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.6912,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 43,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.1675,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 44,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5695,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 45,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.7099,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 46,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4729,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 47,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8328,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 48,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2705,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 49,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5976,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 50,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.176,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 51,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.978,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 52,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.212,
+    "unique_sequences": 15,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 53,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8254,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 54,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5273,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 55,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8381,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 56,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.805,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 57,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3136,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 58,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3604,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 59,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1661,
+    "unique_sequences": 16,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0201",
+    "generation": 60,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.582,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 1,
+    "best_fitness": 94.64,
+    "mean_fitness": 87.7415,
+    "unique_sequences": 72,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 2,
+    "best_fitness": 94.64,
+    "mean_fitness": 90.2674,
+    "unique_sequences": 55,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 3,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.0835,
+    "unique_sequences": 41,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 4,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.0609,
+    "unique_sequences": 38,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 5,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7134,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 6,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.4145,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 7,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.9657,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 8,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.0213,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 9,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.9251,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 10,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.938,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 11,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.211,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 12,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.5489,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 13,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.9636,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 14,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.558,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 15,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.9391,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 16,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.506,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 17,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.4845,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 18,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2701,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 19,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.8471,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 20,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7578,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 21,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.49,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 22,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.8895,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 23,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.2438,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 24,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.3205,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 25,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.0334,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 26,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.1554,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 27,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.8161,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 28,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.9558,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 29,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.2124,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 30,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5579,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 31,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6838,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 32,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2219,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 33,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.7825,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 34,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.879,
+    "unique_sequences": 36,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 35,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.6624,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 36,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.0624,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 37,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2244,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 38,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5436,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 39,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7399,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 40,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.825,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 41,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.8575,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 42,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.3223,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 43,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7713,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 44,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.0632,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 45,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.2078,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 46,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.594,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 47,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.921,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 48,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2651,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 49,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.9329,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 50,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.3701,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 51,
+    "best_fitness": 94.64,
+    "mean_fitness": 93.089,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 52,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.9136,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 53,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.5516,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 54,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.8249,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 55,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.6078,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 56,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.3621,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 57,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.7983,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 58,
+    "best_fitness": 94.64,
+    "mean_fitness": 91.6935,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 59,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.7024,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0202",
+    "generation": 60,
+    "best_fitness": 94.64,
+    "mean_fitness": 92.2656,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 1,
+    "best_fitness": 94.7,
+    "mean_fitness": 86.2383,
+    "unique_sequences": 76,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Wheat -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 2,
+    "best_fitness": 94.7,
+    "mean_fitness": 88.9316,
+    "unique_sequences": 61,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Wheat -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 3,
+    "best_fitness": 94.9,
+    "mean_fitness": 90.3336,
+    "unique_sequences": 44,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 4,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.6745,
+    "unique_sequences": 42,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 5,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.1126,
+    "unique_sequences": 35,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 6,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.0757,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 7,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8068,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 8,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3757,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 9,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.9169,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 10,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.8926,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 11,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5828,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 12,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.6747,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 13,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4181,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 14,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.3699,
+    "unique_sequences": 15,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 15,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.4587,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 16,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4284,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 17,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.2172,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 18,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4938,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 19,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8065,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 20,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.6903,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 21,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8672,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 22,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4695,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 23,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5894,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 24,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.0723,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 25,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.6007,
+    "unique_sequences": 16,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 26,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9958,
+    "unique_sequences": 16,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 27,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4379,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 28,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2611,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 29,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.3653,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 30,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9076,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 31,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.0168,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 32,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.4594,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 33,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.205,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 34,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.914,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 35,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.544,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 36,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.3964,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 37,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.9936,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 38,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1136,
+    "unique_sequences": 14,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 39,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8105,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 40,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.7491,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 41,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.1703,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 42,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.362,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 43,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.0846,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 44,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.0263,
+    "unique_sequences": 15,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 45,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8093,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 46,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.5716,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 47,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.6123,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 48,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.2044,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 49,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.7236,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 50,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8564,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 51,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.8549,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 52,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.862,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 53,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.1779,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 54,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.0151,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 55,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.6925,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 56,
+    "best_fitness": 94.9,
+    "mean_fitness": 92.255,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 57,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.0755,
+    "unique_sequences": 17,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 58,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.005,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 59,
+    "best_fitness": 94.9,
+    "mean_fitness": 93.1566,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0301",
+    "generation": 60,
+    "best_fitness": 94.9,
+    "mean_fitness": 91.7696,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Tomato -> Maize -> Tomato"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 1,
+    "best_fitness": 92.77,
+    "mean_fitness": 84.8705,
+    "unique_sequences": 77,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 2,
+    "best_fitness": 92.77,
+    "mean_fitness": 87.0556,
+    "unique_sequences": 61,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 3,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.6183,
+    "unique_sequences": 43,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 4,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.1454,
+    "unique_sequences": 34,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 5,
+    "best_fitness": 92.77,
+    "mean_fitness": 88.8816,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 6,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0697,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 7,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.081,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 8,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.1929,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 9,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2926,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 10,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.4524,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 11,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.4876,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 12,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.1335,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 13,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.3265,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 14,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7442,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 15,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7553,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 16,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.617,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 17,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2503,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 18,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0466,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 19,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2801,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 20,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0132,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 21,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.4177,
+    "unique_sequences": 34,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 22,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5264,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 23,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.76,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 24,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8524,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 25,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.494,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 26,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3656,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 27,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5989,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 28,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9214,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 29,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7968,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 30,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4322,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 31,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0497,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 32,
+    "best_fitness": 92.77,
+    "mean_fitness": 88.8483,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 33,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7853,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 34,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7676,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 35,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.253,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 36,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.9183,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 37,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1306,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 38,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.5316,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 39,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3571,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 40,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.7133,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 41,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.823,
+    "unique_sequences": 20,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 42,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1831,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 43,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9002,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 44,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3596,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 45,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9241,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 46,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.6586,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 47,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5102,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 48,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3589,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 49,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.4559,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 50,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.6011,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 51,
+    "best_fitness": 92.77,
+    "mean_fitness": 88.7301,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 52,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0553,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 53,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0655,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 54,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.3619,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 55,
+    "best_fitness": 92.77,
+    "mean_fitness": 88.9218,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 56,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4263,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 57,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.3036,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 58,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4008,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 59,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0885,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0302",
+    "generation": 60,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0982,
+    "unique_sequences": 28,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 1,
+    "best_fitness": 92.39,
+    "mean_fitness": 86.0072,
+    "unique_sequences": 73,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 2,
+    "best_fitness": 92.39,
+    "mean_fitness": 88.2809,
+    "unique_sequences": 50,
+    "population_size": 80,
+    "best_sequence": "Cotton -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 3,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.392,
+    "unique_sequences": 42,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 4,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7537,
+    "unique_sequences": 34,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 5,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7591,
+    "unique_sequences": 34,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 6,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.606,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 7,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.4933,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 8,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5977,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 9,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.0886,
+    "unique_sequences": 35,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 10,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.6475,
+    "unique_sequences": 33,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 11,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5531,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 12,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.6865,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 13,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.762,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 14,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.2438,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 15,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.9361,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 16,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.8446,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 17,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1214,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 18,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1606,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 19,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.4149,
+    "unique_sequences": 35,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 20,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.1196,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 21,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8839,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 22,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8249,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 23,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8601,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 24,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8924,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 25,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.6795,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 26,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.903,
+    "unique_sequences": 16,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 27,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1013,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 28,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9183,
+    "unique_sequences": 32,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 29,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.721,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 30,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.301,
+    "unique_sequences": 27,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 31,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5259,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 32,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8733,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 33,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.7105,
+    "unique_sequences": 18,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 34,
+    "best_fitness": 92.77,
+    "mean_fitness": 88.9453,
+    "unique_sequences": 24,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 35,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.1374,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 36,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.1623,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 37,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.6039,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 38,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.6865,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 39,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7415,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 40,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8353,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 41,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.2616,
+    "unique_sequences": 23,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 42,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.7416,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 43,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.2139,
+    "unique_sequences": 31,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 44,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5629,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 45,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.8075,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 46,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4956,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 47,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.145,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 48,
+    "best_fitness": 92.77,
+    "mean_fitness": 88.8108,
+    "unique_sequences": 29,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 49,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.4961,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 50,
+    "best_fitness": 92.77,
+    "mean_fitness": 91.1209,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 51,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.5796,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 52,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.6273,
+    "unique_sequences": 26,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 53,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9726,
+    "unique_sequences": 25,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 54,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.4804,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 55,
+    "best_fitness": 92.77,
+    "mean_fitness": 88.9871,
+    "unique_sequences": 30,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 56,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.5708,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 57,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.8293,
+    "unique_sequences": 19,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 58,
+    "best_fitness": 92.77,
+    "mean_fitness": 90.7957,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 59,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.132,
+    "unique_sequences": 21,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  },
+  {
+    "cell_id": "D0303",
+    "generation": 60,
+    "best_fitness": 92.77,
+    "mean_fitness": 89.9068,
+    "unique_sequences": 22,
+    "population_size": 80,
+    "best_sequence": "Rice -> Tomato -> Onion"
+  }
+]

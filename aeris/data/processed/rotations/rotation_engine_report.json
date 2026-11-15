@@ -1,0 +1,29 @@
+{
+  "engine_version": "1.0",
+  "region": "Nashik-area bounding box",
+  "locations_processed": 104,
+  "locations_without_complete_rotation": 0,
+  "valid_sequences_evaluated": 16640,
+  "recommendations_saved": 1040,
+  "seasons": [
+    "kharif",
+    "rabi",
+    "summer"
+  ],
+  "top_candidates_per_season": 8,
+  "maximum_recommendations_per_location": 10,
+  "weights": {
+    "suitability": 0.75,
+    "rotation_compatibility": 0.25
+  },
+  "outputs": {
+    "recommendations": "E:\\TrialShit\\aeris\\data\\processed\\rotations\\rotation_recommendations.csv"
+  },
+  "score_definition": "75% average environmental suitability + 25% rotation compatibility",
+  "limitations": [
+    "Scores are screening recommendations, not yield predictions.",
+    "Water availability and irrigation infrastructure are not yet modelled.",
+    "Crop economics, market demand and input costs are not included.",
+    "Rotation rules are based on the current heuristic knowledge base."
+  ]
+}

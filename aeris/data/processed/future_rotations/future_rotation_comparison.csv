@@ -1,0 +1,105 @@
+location_id,baseline_rotation,baseline_rotation_score,future_rotation,future_rotation_score,score_change,rotation_changed
+LOC_001,Rice -> Chickpea -> Onion,92.55,Rice -> Chickpea -> Onion,92.84,0.29,False
+LOC_002,Rice -> Chickpea -> Tomato,92.69,Rice -> Chickpea -> Onion,92.98,0.29,True
+LOC_003,Rice -> Chickpea -> Onion,87.13,Rice -> Chickpea -> Onion,87.42,0.29,False
+LOC_004,Rice -> Chickpea -> Onion,92.08,Rice -> Chickpea -> Onion,92.37,0.29,False
+LOC_005,Rice -> Chickpea -> Tomato,84.0,Rice -> Chickpea -> Onion,84.3,0.29,True
+LOC_006,Rice -> Chickpea -> Tomato,91.91,Rice -> Chickpea -> Onion,92.2,0.29,True
+LOC_007,Rice -> Chickpea -> Tomato,91.59,Rice -> Chickpea -> Onion,91.89,0.29,True
+LOC_008,Rice -> Chickpea -> Tomato,92.1,Rice -> Chickpea -> Tomato,92.39,0.29,False
+LOC_009,Rice -> Chickpea -> Tomato,89.94,Rice -> Chickpea -> Tomato,90.24,0.29,False
+LOC_010,Rice -> Chickpea -> Onion,86.77,Rice -> Chickpea -> Onion,87.06,0.29,False
+LOC_011,Rice -> Chickpea -> Tomato,93.78,Rice -> Chickpea -> Tomato,94.07,0.29,False
+LOC_012,Rice -> Chickpea -> Tomato,93.69,Rice -> Chickpea -> Tomato,93.98,0.29,False
+LOC_013,Rice -> Chickpea -> Tomato,91.97,Rice -> Chickpea -> Onion,92.27,0.29,True
+LOC_014,Rice -> Chickpea -> Tomato,90.66,Rice -> Chickpea -> Onion,90.95,0.29,True
+LOC_015,Rice -> Chickpea -> Tomato,95.11,Rice -> Chickpea -> Tomato,95.41,0.29,False
+LOC_016,Rice -> Chickpea -> Onion,92.51,Rice -> Chickpea -> Onion,92.81,0.29,False
+LOC_017,Rice -> Chickpea -> Onion,85.27,Rice -> Chickpea -> Onion,85.56,0.29,False
+LOC_018,Rice -> Chickpea -> Tomato,86.82,Rice -> Chickpea -> Onion,87.11,0.29,True
+LOC_019,Rice -> Chickpea -> Tomato,94.8,Rice -> Chickpea -> Tomato,95.09,0.29,False
+LOC_020,Rice -> Chickpea -> Tomato,90.9,Rice -> Chickpea -> Onion,91.19,0.29,True
+LOC_021,Rice -> Chickpea -> Tomato,91.8,Rice -> Chickpea -> Onion,92.09,0.29,True
+LOC_022,Rice -> Chickpea -> Tomato,89.91,Rice -> Chickpea -> Tomato,90.2,0.29,False
+LOC_023,Rice -> Chickpea -> Tomato,95.19,Rice -> Chickpea -> Tomato,95.48,0.29,False
+LOC_024,Rice -> Chickpea -> Onion,89.59,Rice -> Chickpea -> Onion,89.88,0.29,False
+LOC_025,Rice -> Chickpea -> Tomato,85.27,Rice -> Chickpea -> Onion,85.56,0.29,True
+LOC_026,Rice -> Chickpea -> Onion,86.7,Rice -> Chickpea -> Onion,87.0,0.29,False
+LOC_027,Rice -> Chickpea -> Tomato,90.86,Rice -> Chickpea -> Onion,91.16,0.29,True
+LOC_028,Rice -> Chickpea -> Tomato,94.46,Rice -> Chickpea -> Tomato,94.75,0.29,False
+LOC_029,Rice -> Chickpea -> Tomato,89.89,Rice -> Chickpea -> Tomato,90.19,0.29,False
+LOC_030,Rice -> Chickpea -> Tomato,94.08,Rice -> Chickpea -> Tomato,94.38,0.29,False
+LOC_031,Rice -> Chickpea -> Tomato,91.46,Rice -> Chickpea -> Onion,91.75,0.29,True
+LOC_032,Rice -> Chickpea -> Tomato,92.53,Rice -> Chickpea -> Onion,92.82,0.29,True
+LOC_033,Rice -> Chickpea -> Tomato,91.76,Rice -> Chickpea -> Tomato,92.06,0.29,False
+LOC_034,Rice -> Chickpea -> Tomato,90.88,Rice -> Chickpea -> Onion,91.17,0.29,True
+LOC_035,Rice -> Chickpea -> Tomato,94.06,Rice -> Chickpea -> Tomato,94.35,0.29,False
+LOC_036,Rice -> Chickpea -> Onion,92.49,Rice -> Chickpea -> Onion,92.78,0.29,False
+LOC_037,Rice -> Chickpea -> Onion,92.56,Rice -> Chickpea -> Onion,92.86,0.29,False
+LOC_038,Rice -> Chickpea -> Tomato,92.54,Rice -> Chickpea -> Onion,92.83,0.29,True
+LOC_039,Rice -> Chickpea -> Onion,92.47,Rice -> Chickpea -> Onion,92.76,0.29,False
+LOC_040,Rice -> Chickpea -> Onion,90.51,Rice -> Chickpea -> Onion,90.8,0.29,False
+LOC_041,Rice -> Chickpea -> Onion,90.37,Rice -> Chickpea -> Onion,90.66,0.29,False
+LOC_042,Rice -> Chickpea -> Onion,91.75,Rice -> Chickpea -> Onion,92.04,0.29,False
+LOC_043,Rice -> Chickpea -> Tomato,88.41,Rice -> Chickpea -> Tomato,88.7,0.29,False
+LOC_044,Rice -> Chickpea -> Tomato,94.02,Rice -> Chickpea -> Tomato,94.31,0.29,False
+LOC_045,Rice -> Chickpea -> Tomato,94.02,Rice -> Chickpea -> Tomato,94.31,0.29,False
+LOC_046,Rice -> Chickpea -> Tomato,93.92,Rice -> Chickpea -> Tomato,94.22,0.29,False
+LOC_047,Rice -> Onion -> Black Gram,92.32,Rice -> Chickpea -> Onion,92.17,0.18,True
+LOC_048,Rice -> Chickpea -> Tomato,91.87,Rice -> Chickpea -> Onion,92.16,0.29,True
+LOC_049,Rice -> Onion -> Green Gram,92.84,Rice -> Chickpea -> Onion,92.74,0.18,True
+LOC_050,Rice -> Chickpea -> Tomato,94.39,Rice -> Chickpea -> Tomato,94.57,0.18,False
+LOC_051,Rice -> Tomato -> Black Gram,92.16,Rice -> Chickpea -> Onion,92.02,0.18,True
+LOC_052,Rice -> Onion -> Black Gram,91.98,Rice -> Chickpea -> Onion,91.65,0.18,True
+LOC_053,Rice -> Onion -> Green Gram,91.99,Rice -> Chickpea -> Onion,91.66,0.18,True
+LOC_054,Rice -> Onion -> Black Gram,92.34,Rice -> Chickpea -> Onion,92.19,0.18,True
+LOC_055,Rice -> Onion -> Green Gram,92.52,Rice -> Chickpea -> Onion,92.37,0.18,True
+LOC_056,Rice -> Onion -> Green Gram,92.84,Rice -> Chickpea -> Onion,92.86,0.18,True
+LOC_057,Rice -> Chickpea -> Onion,90.87,Rice -> Chickpea -> Onion,91.16,0.29,False
+LOC_058,Rice -> Chickpea -> Onion,91.41,Rice -> Chickpea -> Onion,91.71,0.29,False
+LOC_059,Rice -> Chickpea -> Tomato,92.49,Rice -> Chickpea -> Onion,92.78,0.29,True
+LOC_060,Rice -> Onion -> Black Gram,92.17,Rice -> Chickpea -> Onion,92.03,0.18,True
+LOC_061,Rice -> Onion -> Green Gram,92.3,Rice -> Chickpea -> Onion,92.15,0.18,True
+LOC_062,Rice -> Onion -> Black Gram,92.53,Rice -> Chickpea -> Onion,92.38,0.18,True
+LOC_063,Rice -> Tomato -> Black Gram,92.84,Rice -> Chickpea -> Onion,92.99,0.18,True
+LOC_064,Rice -> Chickpea -> Tomato,94.09,Rice -> Chickpea -> Tomato,94.38,0.29,False
+LOC_065,Rice -> Chickpea -> Tomato,92.21,Rice -> Chickpea -> Tomato,92.5,0.29,False
+LOC_066,Rice -> Chickpea -> Tomato,94.12,Rice -> Chickpea -> Tomato,94.41,0.29,False
+LOC_067,Rice -> Chickpea -> Onion,92.53,Rice -> Chickpea -> Onion,92.82,0.29,False
+LOC_068,Rice -> Onion -> Green Gram,92.32,Rice -> Chickpea -> Onion,92.17,0.18,True
+LOC_069,Rice -> Onion -> Black Gram,92.43,Rice -> Chickpea -> Onion,92.28,0.18,True
+LOC_070,Rice -> Onion -> Green Gram,92.84,Rice -> Chickpea -> Onion,92.96,0.18,True
+LOC_071,Rice -> Chickpea -> Tomato,89.43,Rice -> Chickpea -> Tomato,89.72,0.29,False
+LOC_072,Rice -> Chickpea -> Tomato,91.44,Rice -> Chickpea -> Onion,91.73,0.29,True
+LOC_073,Rice -> Chickpea -> Tomato,91.47,Rice -> Chickpea -> Onion,91.76,0.29,True
+LOC_074,Rice -> Onion -> Green Gram,92.54,Rice -> Chickpea -> Onion,92.39,0.18,True
+LOC_075,Rice -> Chickpea -> Tomato,93.85,Rice -> Chickpea -> Tomato,94.15,0.29,False
+LOC_076,Rice -> Onion -> Black Gram,92.78,Rice -> Chickpea -> Onion,92.63,0.18,True
+LOC_077,Rice -> Onion -> Black Gram,92.84,Rice -> Chickpea -> Onion,92.78,0.18,True
+LOC_078,Rice -> Chickpea -> Tomato,91.73,Rice -> Chickpea -> Tomato,92.03,0.29,False
+LOC_079,Rice -> Chickpea -> Tomato,91.48,Rice -> Chickpea -> Onion,91.78,0.29,True
+LOC_080,Rice -> Chickpea -> Tomato,95.22,Rice -> Chickpea -> Tomato,95.51,0.29,False
+LOC_081,Rice -> Onion -> Green Gram,92.2,Rice -> Chickpea -> Onion,92.05,0.18,True
+LOC_082,Rice -> Onion -> Black Gram,92.63,Rice -> Chickpea -> Onion,92.48,0.18,True
+LOC_083,Rice -> Chickpea -> Onion,90.67,Rice -> Chickpea -> Onion,90.96,0.29,False
+LOC_084,Rice -> Onion -> Green Gram,92.84,Rice -> Chickpea -> Onion,92.72,0.18,True
+LOC_085,Rice -> Chickpea -> Tomato,93.5,Rice -> Chickpea -> Tomato,93.79,0.29,False
+LOC_086,Rice -> Chickpea -> Tomato,92.18,Rice -> Chickpea -> Tomato,92.47,0.29,False
+LOC_087,Rice -> Chickpea -> Tomato,93.76,Rice -> Chickpea -> Tomato,94.05,0.29,False
+LOC_088,Rice -> Chickpea -> Tomato,92.19,Rice -> Chickpea -> Onion,92.48,0.29,True
+LOC_089,Rice -> Chickpea -> Tomato,91.55,Rice -> Chickpea -> Onion,91.84,0.29,True
+LOC_090,Rice -> Chickpea -> Onion,84.7,Rice -> Chickpea -> Onion,84.99,0.29,False
+LOC_091,Rice -> Chickpea -> Tomato,91.39,Rice -> Chickpea -> Onion,91.69,0.29,True
+LOC_092,Rice -> Chickpea -> Tomato,93.52,Rice -> Chickpea -> Tomato,93.81,0.29,False
+LOC_093,Rice -> Chickpea -> Tomato,90.91,Rice -> Chickpea -> Onion,91.2,0.29,True
+LOC_094,Rice -> Chickpea -> Onion,91.41,Rice -> Chickpea -> Onion,91.7,0.29,False
+LOC_095,Rice -> Chickpea -> Tomato,90.86,Rice -> Chickpea -> Onion,91.15,0.29,True
+LOC_096,Rice -> Chickpea -> Onion,88.77,Rice -> Chickpea -> Onion,89.06,0.29,False
+LOC_097,Rice -> Chickpea -> Onion,88.69,Rice -> Chickpea -> Onion,88.98,0.29,False
+LOC_098,Rice -> Chickpea -> Onion,86.02,Rice -> Chickpea -> Onion,86.31,0.29,False
+LOC_099,Rice -> Chickpea -> Onion,84.16,Rice -> Chickpea -> Onion,84.46,0.29,False
+LOC_100,Rice -> Chickpea -> Onion,87.72,Rice -> Chickpea -> Onion,88.02,0.29,False
+LOC_101,Rice -> Chickpea -> Tomato,90.64,Rice -> Chickpea -> Onion,90.94,0.29,True
+LOC_102,Rice -> Chickpea -> Tomato,91.53,Rice -> Chickpea -> Onion,91.82,0.29,True
+LOC_104,Rice -> Chickpea -> Onion,89.75,Rice -> Chickpea -> Onion,90.05,0.29,False
+LOC_105,Rice -> Chickpea -> Onion,86.42,Rice -> Chickpea -> Onion,86.72,0.29,False

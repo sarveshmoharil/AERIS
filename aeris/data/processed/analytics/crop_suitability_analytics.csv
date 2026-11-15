@@ -1,0 +1,49 @@
+crop_name,season,average_score,maximum_score,minimum_score,locations_evaluated
+Rice,kharif,94.0,100.0,82.43,105
+Maize,kharif,78.54,84.91,66.02,105
+Tomato,kharif,78.54,84.91,66.02,105
+Onion,kharif,77.09,79.66,66.02,105
+Cotton,kharif,75.98,80.0,58.46,105
+Soybean,kharif,73.13,80.0,58.46,105
+Grapes,kharif,73.04,79.91,58.33,105
+Finger Millet,kharif,72.81,80.0,58.46,105
+Pigeon Pea,kharif,72.81,80.0,58.46,105
+Groundnut,kharif,71.68,74.75,58.46,105
+Pearl Millet,kharif,71.16,79.16,57.16,105
+Black Gram,kharif,70.43,73.91,57.16,105
+Green Gram,kharif,70.43,73.91,57.16,105
+Pomegranate,kharif,67.31,75.0,50.77,105
+Chickpea,kharif,0.0,0.0,0.0,105
+Wheat,kharif,0.0,0.0,0.0,105
+Chickpea,rabi,90.13,96.41,82.16,105
+Wheat,rabi,84.59,90.41,74.47,105
+Pomegranate,rabi,83.16,89.41,72.93,105
+Maize,rabi,80.19,86.41,68.32,105
+Tomato,rabi,80.19,86.41,68.32,105
+Onion,rabi,78.74,81.16,68.32,105
+Grapes,rabi,74.68,81.41,60.62,105
+Black Gram,rabi,0.0,0.0,0.0,105
+Cotton,rabi,0.0,0.0,0.0,105
+Finger Millet,rabi,0.0,0.0,0.0,105
+Green Gram,rabi,0.0,0.0,0.0,105
+Groundnut,rabi,0.0,0.0,0.0,105
+Pearl Millet,rabi,0.0,0.0,0.0,105
+Pigeon Pea,rabi,0.0,0.0,0.0,105
+Rice,rabi,0.0,0.0,0.0,105
+Soybean,rabi,0.0,0.0,0.0,105
+Black Gram,summer,88.33,92.97,81.18,105
+Green Gram,summer,88.33,92.97,81.18,105
+Pomegranate,summer,84.28,90.43,74.51,105
+Tomato,summer,81.31,87.43,69.89,105
+Onion,summer,79.86,82.18,69.89,105
+Grapes,summer,75.81,82.43,62.2,105
+Chickpea,summer,0.0,0.0,0.0,105
+Cotton,summer,0.0,0.0,0.0,105
+Finger Millet,summer,0.0,0.0,0.0,105
+Groundnut,summer,0.0,0.0,0.0,105
+Maize,summer,0.0,0.0,0.0,105
+Pearl Millet,summer,0.0,0.0,0.0,105
+Pigeon Pea,summer,0.0,0.0,0.0,105
+Rice,summer,0.0,0.0,0.0,105
+Soybean,summer,0.0,0.0,0.0,105
+Wheat,summer,0.0,0.0,0.0,105

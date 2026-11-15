@@ -1,0 +1,48 @@
+{
+    "engine": "AERIS Future Crop Rotation Engine",
+    "version": "1.0",
+    "target_year": 2027,
+    "locations_processed": 104,
+    "locations_without_complete_rotation": 0,
+    "valid_sequences_evaluated": 16640,
+    "recommendations_saved": 1040,
+    "rainfall_context": {
+        "kharif": {
+            "predicted_mm": 1710.05,
+            "historical_mean_mm": 1577.14,
+            "rainfall_ratio": 1.0842727975956477
+        },
+        "summer": {
+            "predicted_mm": 49.35,
+            "historical_mean_mm": 35.72,
+            "rainfall_ratio": 1.3815789473684212
+        },
+        "rabi": {
+            "predicted_mm": 117.05999999999999,
+            "historical_mean_mm": 103.57000000000001,
+            "rainfall_ratio": 1.1302500724147917
+        }
+    },
+    "historical_7_day_dry_spell_frequency": 0.538,
+    "scoring": {
+        "suitability_weight": 0.75,
+        "rotation_compatibility_weight": 0.25,
+        "maximum_rainfall_adjustment_points": 6.0
+    },
+    "comparison": {
+        "locations_compared": 104,
+        "recommendation_changed_count": 48
+    },
+    "limitations": [
+        "Rainfall adjustment is a heuristic based on crop water-demand categories.",
+        "Seasonal rainfall totals do not describe rainfall distribution or irrigation availability.",
+        "The same Nashik climate forecast is shared across all locations.",
+        "This is not a crop yield or profit prediction.",
+        "Rotation compatibility uses the existing heuristic knowledge base."
+    ],
+    "outputs": {
+        "future_suitability": "future_crop_suitability.csv",
+        "future_rotations": "future_rotation_recommendations.csv",
+        "comparison": "future_rotation_comparison.csv"
+    }
+}

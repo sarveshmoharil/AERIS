@@ -1,0 +1,96 @@
+{
+  "source": "ISRIC SoilGrids",
+  "retrieved_utc": "2026-11-14T06:54:54.822603+00:00",
+  "geographic_bbox": [
+    73.5,
+    19.5,
+    74.1,
+    20.5
+  ],
+  "projected_bbox": [
+    7875324.118708036,
+    2170730.0704688346,
+    7967190.475592816,
+    2282049.5612621084
+  ],
+  "projection": "EPSG:152160",
+  "resolution_m": 250,
+  "quantile": "Q0.5",
+  "results": [
+    {
+      "file": "phh2o_0-5cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "phh2o_5-15cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "phh2o_15-30cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "soc_0-5cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "soc_5-15cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "soc_15-30cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "clay_0-5cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "clay_5-15cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "clay_15-30cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "sand_0-5cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "sand_5-15cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "sand_15-30cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "nitrogen_0-5cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "nitrogen_5-15cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "nitrogen_15-30cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "cec_0-5cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "cec_5-15cm.tif",
+      "status": "downloaded"
+    },
+    {
+      "file": "cec_15-30cm.tif",
+      "status": "downloaded"
+    }
+  ],
+  "downloaded": 18,
+  "existing": 0,
+  "failed": 0
+}

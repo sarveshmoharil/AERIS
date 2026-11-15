@@ -1,0 +1,5852 @@
+[
+  {
+    "target": "G101",
+    "generation": 1,
+    "best_fitness": 89.092,
+    "mean_fitness": 81.016,
+    "population_size": 70,
+    "unique_sequences": 57,
+    "best_sequence": [
+      "rice",
+      "tomato",
+      "urad"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 2,
+    "best_fitness": 89.092,
+    "mean_fitness": 82.91,
+    "population_size": 70,
+    "unique_sequences": 49,
+    "best_sequence": [
+      "rice",
+      "tomato",
+      "urad"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 3,
+    "best_fitness": 90.712,
+    "mean_fitness": 83.787,
+    "population_size": 70,
+    "unique_sequences": 45,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 4,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.079,
+    "population_size": 70,
+    "unique_sequences": 36,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 5,
+    "best_fitness": 90.712,
+    "mean_fitness": 85.888,
+    "population_size": 70,
+    "unique_sequences": 29,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 6,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.272,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 7,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.862,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 8,
+    "best_fitness": 90.712,
+    "mean_fitness": 88.38,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 9,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.841,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 10,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.24,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 11,
+    "best_fitness": 90.712,
+    "mean_fitness": 88.075,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 12,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.124,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 13,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.05,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 14,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.935,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 15,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.747,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 16,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.057,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 17,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.376,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 18,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.523,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 19,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.212,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 20,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.645,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 21,
+    "best_fitness": 90.712,
+    "mean_fitness": 88.046,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 22,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.004,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 23,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.288,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 24,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.552,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 25,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.528,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 26,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.781,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 27,
+    "best_fitness": 90.712,
+    "mean_fitness": 85.987,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 28,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.486,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 29,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.502,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 30,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.274,
+    "population_size": 70,
+    "unique_sequences": 13,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 31,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.253,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 32,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.925,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 33,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.416,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 34,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.756,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 35,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.48,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 36,
+    "best_fitness": 90.712,
+    "mean_fitness": 88.097,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 37,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.41,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 38,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.32,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 39,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.224,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 40,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.485,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 41,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.221,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 42,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.11,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 43,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.255,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 44,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.566,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 45,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.419,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 46,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.69,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 47,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.159,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 48,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.118,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 49,
+    "best_fitness": 90.712,
+    "mean_fitness": 86.829,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G101",
+    "generation": 50,
+    "best_fitness": 90.712,
+    "mean_fitness": 87.639,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 1,
+    "best_fitness": 91.405,
+    "mean_fitness": 82.851,
+    "population_size": 70,
+    "unique_sequences": 58,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 2,
+    "best_fitness": 91.405,
+    "mean_fitness": 83.27,
+    "population_size": 70,
+    "unique_sequences": 51,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 3,
+    "best_fitness": 91.405,
+    "mean_fitness": 83.82,
+    "population_size": 70,
+    "unique_sequences": 44,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 4,
+    "best_fitness": 91.405,
+    "mean_fitness": 85.165,
+    "population_size": 70,
+    "unique_sequences": 41,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 5,
+    "best_fitness": 91.405,
+    "mean_fitness": 86.291,
+    "population_size": 70,
+    "unique_sequences": 32,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 6,
+    "best_fitness": 91.405,
+    "mean_fitness": 86.845,
+    "population_size": 70,
+    "unique_sequences": 26,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 7,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.031,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 8,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.928,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 9,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.287,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 10,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.272,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 11,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.648,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 12,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.531,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 13,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.817,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 14,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.704,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 15,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.289,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 16,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.811,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 17,
+    "best_fitness": 91.405,
+    "mean_fitness": 85.856,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 18,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.324,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 19,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.282,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 20,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.465,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 21,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.604,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 22,
+    "best_fitness": 91.405,
+    "mean_fitness": 86.973,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 23,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.879,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 24,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.784,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 25,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.321,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 26,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.229,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 27,
+    "best_fitness": 91.405,
+    "mean_fitness": 86.589,
+    "population_size": 70,
+    "unique_sequences": 26,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 28,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.941,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 29,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.949,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 30,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.485,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 31,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.625,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 32,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.555,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 33,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.684,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 34,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.301,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 35,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.817,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 36,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.405,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 37,
+    "best_fitness": 91.405,
+    "mean_fitness": 89.314,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 38,
+    "best_fitness": 91.405,
+    "mean_fitness": 86.758,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 39,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.056,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 40,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.33,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 41,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.343,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 42,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.016,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 43,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.152,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 44,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.403,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 45,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.558,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 46,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.087,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 47,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.801,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 48,
+    "best_fitness": 91.405,
+    "mean_fitness": 88.049,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 49,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.82,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G102",
+    "generation": 50,
+    "best_fitness": 91.405,
+    "mean_fitness": 87.424,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 1,
+    "best_fitness": 92.565,
+    "mean_fitness": 83.48,
+    "population_size": 70,
+    "unique_sequences": 58,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 2,
+    "best_fitness": 92.565,
+    "mean_fitness": 83.895,
+    "population_size": 70,
+    "unique_sequences": 50,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 3,
+    "best_fitness": 92.565,
+    "mean_fitness": 84.573,
+    "population_size": 70,
+    "unique_sequences": 44,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 4,
+    "best_fitness": 92.565,
+    "mean_fitness": 86.229,
+    "population_size": 70,
+    "unique_sequences": 35,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 5,
+    "best_fitness": 92.565,
+    "mean_fitness": 86.415,
+    "population_size": 70,
+    "unique_sequences": 33,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 6,
+    "best_fitness": 92.565,
+    "mean_fitness": 87.914,
+    "population_size": 70,
+    "unique_sequences": 26,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 7,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.296,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 8,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.991,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 9,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.372,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 10,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.316,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 11,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.647,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 12,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.548,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 13,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.835,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 14,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.554,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 15,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.32,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 16,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.839,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 17,
+    "best_fitness": 92.565,
+    "mean_fitness": 86.889,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 18,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.353,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 19,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.356,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 20,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.488,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 21,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.676,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 22,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.197,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 23,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.978,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 24,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.903,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 25,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.336,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 26,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.291,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 27,
+    "best_fitness": 92.565,
+    "mean_fitness": 87.576,
+    "population_size": 70,
+    "unique_sequences": 26,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 28,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.005,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 29,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.981,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 30,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.594,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 31,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.667,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 32,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.625,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 33,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.747,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 34,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.352,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 35,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.863,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 36,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.418,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 37,
+    "best_fitness": 92.565,
+    "mean_fitness": 90.374,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 38,
+    "best_fitness": 92.565,
+    "mean_fitness": 87.783,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 39,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.042,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 40,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.318,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 41,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.406,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 42,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.061,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 43,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.15,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 44,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.403,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 45,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.529,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 46,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.839,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 47,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.857,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 48,
+    "best_fitness": 92.565,
+    "mean_fitness": 89.075,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 49,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.867,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G201",
+    "generation": 50,
+    "best_fitness": 92.565,
+    "mean_fitness": 88.477,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 1,
+    "best_fitness": 90.978,
+    "mean_fitness": 82.231,
+    "population_size": 70,
+    "unique_sequences": 53,
+    "best_sequence": [
+      "rice",
+      "onion",
+      "urad"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 2,
+    "best_fitness": 92.247,
+    "mean_fitness": 84.587,
+    "population_size": 70,
+    "unique_sequences": 51,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 3,
+    "best_fitness": 92.247,
+    "mean_fitness": 86.333,
+    "population_size": 70,
+    "unique_sequences": 41,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 4,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.097,
+    "population_size": 70,
+    "unique_sequences": 28,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 5,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.249,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 6,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.755,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 7,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.017,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 8,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.677,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 9,
+    "best_fitness": 92.247,
+    "mean_fitness": 87.719,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 10,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.327,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 11,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.983,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 12,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.766,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 13,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.282,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 14,
+    "best_fitness": 92.247,
+    "mean_fitness": 87.812,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 15,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.351,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 16,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.449,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 17,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.082,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 18,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.192,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 19,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.451,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 20,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.179,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 21,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.882,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 22,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.33,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 23,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.045,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 24,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.206,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 25,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.852,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 26,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.954,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 27,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.103,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 28,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.609,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 29,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.259,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 30,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.595,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 31,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.644,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 32,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.25,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 33,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.247,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 34,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.771,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 35,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.837,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 36,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.065,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 37,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.643,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 38,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.106,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 39,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.25,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 40,
+    "best_fitness": 92.247,
+    "mean_fitness": 87.986,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 41,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.439,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 42,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.888,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 43,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.935,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 44,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.44,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 45,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.22,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 46,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.051,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 47,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.394,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 48,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.084,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 49,
+    "best_fitness": 92.247,
+    "mean_fitness": 89.372,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G202",
+    "generation": 50,
+    "best_fitness": 92.247,
+    "mean_fitness": 88.158,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 1,
+    "best_fitness": 89.985,
+    "mean_fitness": 81.812,
+    "population_size": 70,
+    "unique_sequences": 53,
+    "best_sequence": [
+      "rice",
+      "onion",
+      "urad"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 2,
+    "best_fitness": 92.241,
+    "mean_fitness": 83.927,
+    "population_size": 70,
+    "unique_sequences": 55,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 3,
+    "best_fitness": 92.241,
+    "mean_fitness": 86.074,
+    "population_size": 70,
+    "unique_sequences": 41,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 4,
+    "best_fitness": 92.241,
+    "mean_fitness": 87.526,
+    "population_size": 70,
+    "unique_sequences": 28,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 5,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.336,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 6,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.51,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 7,
+    "best_fitness": 92.241,
+    "mean_fitness": 87.878,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 8,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.587,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 9,
+    "best_fitness": 92.241,
+    "mean_fitness": 87.669,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 10,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.163,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 11,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.838,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 12,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.613,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 13,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.1,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 14,
+    "best_fitness": 92.241,
+    "mean_fitness": 87.598,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 15,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.217,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 16,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.352,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 17,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.015,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 18,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.084,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 19,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.295,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 20,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.021,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 21,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.765,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 22,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.189,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 23,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.876,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 24,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.041,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 25,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.76,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 26,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.836,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 27,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.013,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 28,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.485,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 29,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.194,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 30,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.48,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 31,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.484,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 32,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.163,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 33,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.126,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 34,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.609,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 35,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.692,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 36,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.916,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 37,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.518,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 38,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.009,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 39,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.024,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 40,
+    "best_fitness": 92.241,
+    "mean_fitness": 87.819,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 41,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.288,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 42,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.726,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 43,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.792,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 44,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.319,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 45,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.073,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 46,
+    "best_fitness": 92.241,
+    "mean_fitness": 87.947,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 47,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.268,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 48,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.978,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 49,
+    "best_fitness": 92.241,
+    "mean_fitness": 89.257,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G301",
+    "generation": 50,
+    "best_fitness": 92.241,
+    "mean_fitness": 88.022,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 1,
+    "best_fitness": 92.534,
+    "mean_fitness": 84.2,
+    "population_size": 70,
+    "unique_sequences": 59,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "onion"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 2,
+    "best_fitness": 92.643,
+    "mean_fitness": 86.163,
+    "population_size": 70,
+    "unique_sequences": 53,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 3,
+    "best_fitness": 92.643,
+    "mean_fitness": 86.66,
+    "population_size": 70,
+    "unique_sequences": 39,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 4,
+    "best_fitness": 92.643,
+    "mean_fitness": 87.572,
+    "population_size": 70,
+    "unique_sequences": 33,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 5,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.473,
+    "population_size": 70,
+    "unique_sequences": 27,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 6,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.635,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 7,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.694,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 8,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.638,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 9,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.96,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 10,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.176,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 11,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.035,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 12,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.723,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 13,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.6,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 14,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.523,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 15,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.57,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 16,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.225,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 17,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.489,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 18,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.054,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 19,
+    "best_fitness": 92.643,
+    "mean_fitness": 90.607,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 20,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.333,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 21,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.692,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 22,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.05,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 23,
+    "best_fitness": 92.643,
+    "mean_fitness": 90.16,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 24,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.848,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 25,
+    "best_fitness": 92.643,
+    "mean_fitness": 90.457,
+    "population_size": 70,
+    "unique_sequences": 14,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 26,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.481,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 27,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.369,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 28,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.466,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 29,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.061,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 30,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.733,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 31,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.065,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 32,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.498,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 33,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.865,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 34,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.533,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 35,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.652,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 36,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.465,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 37,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.649,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 38,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.898,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 39,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.039,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 40,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.679,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 41,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.786,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 42,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.451,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 43,
+    "best_fitness": 92.643,
+    "mean_fitness": 90.072,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 44,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.039,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 45,
+    "best_fitness": 92.643,
+    "mean_fitness": 89.789,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 46,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.844,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 47,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.523,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 48,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.686,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 49,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.924,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G302",
+    "generation": 50,
+    "best_fitness": 92.643,
+    "mean_fitness": 88.294,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 1,
+    "best_fitness": 90.99,
+    "mean_fitness": 82.591,
+    "population_size": 70,
+    "unique_sequences": 59,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "onion"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 2,
+    "best_fitness": 91.646,
+    "mean_fitness": 84.378,
+    "population_size": 70,
+    "unique_sequences": 51,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 3,
+    "best_fitness": 91.646,
+    "mean_fitness": 86.074,
+    "population_size": 70,
+    "unique_sequences": 39,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 4,
+    "best_fitness": 91.646,
+    "mean_fitness": 85.864,
+    "population_size": 70,
+    "unique_sequences": 33,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 5,
+    "best_fitness": 91.646,
+    "mean_fitness": 86.233,
+    "population_size": 70,
+    "unique_sequences": 31,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 6,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.124,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 7,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.521,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 8,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.366,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 9,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.462,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 10,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.439,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 11,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.195,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 12,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.94,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 13,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.64,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 14,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.6,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 15,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.504,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 16,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.992,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 17,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.209,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 18,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.717,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 19,
+    "best_fitness": 91.646,
+    "mean_fitness": 89.15,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 20,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.239,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 21,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.362,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 22,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.046,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 23,
+    "best_fitness": 91.646,
+    "mean_fitness": 89.094,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 24,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.905,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 25,
+    "best_fitness": 91.646,
+    "mean_fitness": 89.269,
+    "population_size": 70,
+    "unique_sequences": 14,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 26,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.322,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 27,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.421,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 28,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.402,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 29,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.945,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 30,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.504,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 31,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.813,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 32,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.325,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 33,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.846,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 34,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.357,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 35,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.41,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 36,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.212,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 37,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.264,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 38,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.818,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 39,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.665,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 40,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.49,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 41,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.708,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 42,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.553,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 43,
+    "best_fitness": 91.646,
+    "mean_fitness": 89.215,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 44,
+    "best_fitness": 91.646,
+    "mean_fitness": 86.9,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 45,
+    "best_fitness": 91.646,
+    "mean_fitness": 88.675,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 46,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.656,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 47,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.065,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 48,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.471,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 49,
+    "best_fitness": 91.646,
+    "mean_fitness": 87.856,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G401",
+    "generation": 50,
+    "best_fitness": 91.646,
+    "mean_fitness": 86.858,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 1,
+    "best_fitness": 90.22,
+    "mean_fitness": 81.499,
+    "population_size": 70,
+    "unique_sequences": 57,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 2,
+    "best_fitness": 90.22,
+    "mean_fitness": 83.811,
+    "population_size": 70,
+    "unique_sequences": 51,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 3,
+    "best_fitness": 90.22,
+    "mean_fitness": 84.808,
+    "population_size": 70,
+    "unique_sequences": 34,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 4,
+    "best_fitness": 90.22,
+    "mean_fitness": 85.074,
+    "population_size": 70,
+    "unique_sequences": 34,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 5,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.841,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 6,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.48,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 7,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.071,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 8,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.711,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 9,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.138,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 10,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.935,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 11,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.364,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 12,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.355,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 13,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.584,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 14,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.585,
+    "population_size": 70,
+    "unique_sequences": 27,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 15,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.151,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 16,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.721,
+    "population_size": 70,
+    "unique_sequences": 15,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 17,
+    "best_fitness": 90.22,
+    "mean_fitness": 85.951,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 18,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.148,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 19,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.762,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 20,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.918,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 21,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.425,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 22,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.769,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 23,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.765,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 24,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.671,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 25,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.917,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 26,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.479,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 27,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.561,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 28,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.469,
+    "population_size": 70,
+    "unique_sequences": 17,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 29,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.698,
+    "population_size": 70,
+    "unique_sequences": 26,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 30,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.268,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 31,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.824,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 32,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.694,
+    "population_size": 70,
+    "unique_sequences": 18,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 33,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.076,
+    "population_size": 70,
+    "unique_sequences": 25,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 34,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.403,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 35,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.071,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 36,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.876,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 37,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.941,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 38,
+    "best_fitness": 90.22,
+    "mean_fitness": 85.55,
+    "population_size": 70,
+    "unique_sequences": 26,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 39,
+    "best_fitness": 90.22,
+    "mean_fitness": 85.757,
+    "population_size": 70,
+    "unique_sequences": 23,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 40,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.067,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 41,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.471,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 42,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.779,
+    "population_size": 70,
+    "unique_sequences": 20,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 43,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.481,
+    "population_size": 70,
+    "unique_sequences": 24,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 44,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.487,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 45,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.311,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 46,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.885,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 47,
+    "best_fitness": 90.22,
+    "mean_fitness": 87.626,
+    "population_size": 70,
+    "unique_sequences": 19,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 48,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.615,
+    "population_size": 70,
+    "unique_sequences": 21,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 49,
+    "best_fitness": 90.22,
+    "mean_fitness": 88.493,
+    "population_size": 70,
+    "unique_sequences": 16,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "G402",
+    "generation": 50,
+    "best_fitness": 90.22,
+    "mean_fitness": 86.871,
+    "population_size": 70,
+    "unique_sequences": 22,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "tomato"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 1,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 2,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 3,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 4,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 5,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 6,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 7,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 8,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 9,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 10,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 11,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 12,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 13,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 14,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 15,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 16,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 17,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 18,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 19,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 20,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 21,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 22,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 23,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 24,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 25,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 26,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 27,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 28,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 29,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 30,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 31,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 32,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 33,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 34,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 35,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 36,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 37,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 38,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 39,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 40,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 41,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 42,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 43,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 44,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 45,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 46,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 47,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 48,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 49,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  },
+  {
+    "target": "NASHIK_REGION",
+    "generation": 50,
+    "best_fitness": 86.126,
+    "mean_fitness": 86.126,
+    "population_size": 70,
+    "unique_sequences": 2,
+    "best_sequence": [
+      "rice",
+      "chickpea",
+      "mung"
+    ]
+  }
+]

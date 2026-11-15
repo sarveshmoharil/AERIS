@@ -1,0 +1,136 @@
+{
+  "engine": "AERIS District Crop & Rotation Engine",
+  "version": "1.0",
+  "optimizer": "DCR-01",
+  "cells_processed": 15,
+  "crop_count": 16,
+  "suitability_evaluations": 660,
+  "rotation_candidates": 80,
+  "ga_population_size": 80,
+  "ga_generations": 60,
+  "fitness": {
+    "suitability_weight": 0.75,
+    "rotation_compatibility_weight": 0.25,
+    "formula": "0.75 * mean seasonal suitability + 0.25 * rotation compatibility"
+  },
+  "rainfall_context": {
+    "available": true,
+    "source": "RIE-01 seasonal rainfall forecast",
+    "spatial_scope": "single Nashik climate point shared across all 15 cells"
+  },
+  "cell_status": {
+    "D0101": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0102": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0103": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0201": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0202": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0203": {
+      "status": "NO_COMPLETE_ROTATION",
+      "reason": "At least one season has no crop with usable spatial evidence."
+    },
+    "D0204": {
+      "status": "BLOCKED_INSUFFICIENT_EVIDENCE",
+      "reason": "District-grid builder marked this cell as insufficient raster evidence; no rotation is generated."
+    },
+    "D0301": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0302": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0303": {
+      "status": "COMPLETED",
+      "season_pool_sizes": {
+        "kharif": 8,
+        "rabi": 5,
+        "summer": 4
+      }
+    },
+    "D0304": {
+      "status": "BLOCKED_INSUFFICIENT_EVIDENCE",
+      "reason": "District-grid builder marked this cell as insufficient raster evidence; no rotation is generated."
+    },
+    "D0401": {
+      "status": "BLOCKED_INSUFFICIENT_EVIDENCE",
+      "reason": "District-grid builder marked this cell as insufficient raster evidence; no rotation is generated."
+    },
+    "D0402": {
+      "status": "BLOCKED_INSUFFICIENT_EVIDENCE",
+      "reason": "District-grid builder marked this cell as insufficient raster evidence; no rotation is generated."
+    },
+    "D0403": {
+      "status": "BLOCKED_INSUFFICIENT_EVIDENCE",
+      "reason": "District-grid builder marked this cell as insufficient raster evidence; no rotation is generated."
+    },
+    "D0404": {
+      "status": "BLOCKED_INSUFFICIENT_EVIDENCE",
+      "reason": "District-grid builder marked this cell as insufficient raster evidence; no rotation is generated."
+    }
+  },
+  "evidence_status_counts": {
+    "INSUFFICIENT_RASTER_EVIDENCE": 6,
+    "PARTIAL_RASTER_EVIDENCE": 5,
+    "ADEQUATE_RASTER_EVIDENCE": 4
+  },
+  "limitations": [
+    "Scores are heuristic environmental screening scores, not yield or profit predictions.",
+    "Cell-specific inputs are SoilGrids surface pH, sand/clay texture proxies, and SRTM slope.",
+    "Temperature and root-zone moisture are not available as district-cell layers in the supplied profile CSV.",
+    "Rainfall outlook, when present, is a single Nashik climate point shared across all cells; its crop adjustment is heuristic.",
+    "SoilGrids raw scale factors and units require metadata verification; existing AERIS conversion conventions are used for pH/sand/clay.",
+    "Management cells are research grid units, not administrative or soil survey zones.",
+    "Low-evidence cells may have no complete rotation candidates; no values are fabricated to fill gaps.",
+    "GA history records the evolutionary search; candidate shortlist is exhaustively ranked within the top seasonal candidate pools."
+  ],
+  "outputs": {
+    "suitability": "E:\\TrialShit\\aeris\\data\\processed\\district_grid\\crop_suitability_district.csv",
+    "candidates": "E:\\TrialShit\\aeris\\data\\processed\\district_grid\\rotation_candidates_district.csv",
+    "ga_history": "E:\\TrialShit\\aeris\\data\\processed\\district_grid\\ga_history_district.json",
+    "report": "E:\\TrialShit\\aeris\\data\\processed\\district_grid\\district_crop_rotation_report.json"
+  }
+}

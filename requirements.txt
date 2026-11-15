@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+requests
+rasterio
+geopandas
+shapely
+pyproj
+scikit-learn
+xarray
+netCDF4
+matplotlib
+plotly
+pytest
+tqdm
+python-dotenv

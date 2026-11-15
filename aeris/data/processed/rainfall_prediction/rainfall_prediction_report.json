@@ -1,0 +1,82 @@
+{
+    "engine": "AERIS RIE-01",
+    "version": "1.0",
+    "target_year": 2027,
+    "data_source": "NASA POWER",
+    "data_start": "2001-01-01",
+    "data_end": "2026-11-07",
+    "spatial_scope": "Nashik city climate point, shared across locations.",
+    "forecast_method": "70% recent 15-season climatology + 30% restrained linear trend, with bootstrap uncertainty.",
+    "forecast_type": "Statistical seasonal outlook, not live weather forecast.",
+    "seasonal_forecasts": [
+        {
+            "target_year": 2027,
+            "season": "kharif",
+            "forecast_mm": 1710.05,
+            "lower_80_mm": 1504.85,
+            "upper_80_mm": 2164.6,
+            "historical_mean_mm": 1577.14,
+            "recent_15_year_mean_mm": 1652.67,
+            "trend_component_mm": 1843.92,
+            "historical_observations": 26
+        },
+        {
+            "target_year": 2027,
+            "season": "post_monsoon",
+            "forecast_mm": 100.57,
+            "lower_80_mm": 60.74,
+            "upper_80_mm": 164.57,
+            "historical_mean_mm": 93.01,
+            "recent_15_year_mean_mm": 94.51,
+            "trend_component_mm": 114.73,
+            "historical_observations": 25
+        },
+        {
+            "target_year": 2027,
+            "season": "winter",
+            "forecast_mm": 16.49,
+            "lower_80_mm": 8.17,
+            "upper_80_mm": 32.74,
+            "historical_mean_mm": 10.56,
+            "recent_15_year_mean_mm": 15.13,
+            "trend_component_mm": 19.67,
+            "historical_observations": 25
+        },
+        {
+            "target_year": 2027,
+            "season": "summer",
+            "forecast_mm": 49.35,
+            "lower_80_mm": 26.9,
+            "upper_80_mm": 80.75,
+            "historical_mean_mm": 35.72,
+            "recent_15_year_mean_mm": 45.27,
+            "trend_component_mm": 58.85,
+            "historical_observations": 26
+        }
+    ],
+    "dry_spell_analysis": {
+        "years_analysed": 26,
+        "probability_5_day_dry_spell": 0.769,
+        "probability_7_day_dry_spell": 0.538,
+        "probability_10_day_dry_spell": 0.308,
+        "average_maximum_dry_spell_days": 7.81
+    },
+    "monsoon_timing": {
+        "median_onset_day_of_year": 158,
+        "median_withdrawal_day_of_year": 280,
+        "onset_rule": "First 3-day rainfall total >=20 mm between June 1 and July 31.",
+        "withdrawal_rule": "First 10-day rainfall total <10 mm after September 15.",
+        "note": "Historical rainfall-based indicators, not future date predictions."
+    },
+    "backtesting": {
+        "test_observations": 62,
+        "mean_absolute_error_mm": 97.84,
+        "baseline": "Trailing 15-season historical average"
+    },
+    "limitations": [
+        "Historical statistical outlook, not a live meteorological forecast.",
+        "Bootstrap intervals represent historical variability, not guaranteed bounds.",
+        "Climate data represents one Nashik point.",
+        "Onset and withdrawal are simplified rainfall-based indicators."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "builder_version": "1.0",
+  "region": "Nashik-area bounding box",
+  "input_recommendations": 1050,
+  "mapped_locations": 105,
+  "geometry_type": "Point",
+  "coordinate_order": "longitude, latitude",
+  "outputs": {
+    "geojson": "E:\\TrialShit\\aeris\\data\\processed\\map_data\\nashik_rotation_map.geojson",
+    "csv": "E:\\TrialShit\\aeris\\data\\processed\\map_data\\nashik_top_rotations.csv"
+  },
+  "score_range": {
+    "minimum": 74.61,
+    "maximum": 95.22,
+    "mean": 89.34
+  }
+}

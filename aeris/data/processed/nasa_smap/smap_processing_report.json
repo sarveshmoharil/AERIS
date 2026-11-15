@@ -1,0 +1,16 @@
+{
+  "dataset": "NASA SMAP SPL4SMGP",
+  "variable": "Root zone soil moisture",
+  "units": "m3 m-3",
+  "input_rasters": 168,
+  "processed_rasters": 168,
+  "failed_rasters": 0,
+  "pixel_observations": 17640,
+  "date_start": "2015-04-15",
+  "date_end": "2026-11-07",
+  "failures": [],
+  "outputs": {
+    "pixel_timeseries": "E:\\TrialShit\\aeris\\data\\processed\\nasa_smap\\smap_pixel_timeseries.csv",
+    "spatial_summary": "E:\\TrialShit\\aeris\\data\\processed\\nasa_smap\\smap_spatial_summary.csv"
+  }
+}

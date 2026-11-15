@@ -1,0 +1,2398 @@
+{
+  "type": "FeatureCollection",
+  "name": "AERIS_2027_Future_Rotation_Map",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_001",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.84,
+        "baseline_score": 92.55,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.1, future 95.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_002",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.98,
+        "baseline_score": 92.69,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.6, future 96.1. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_003",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 87.42,
+        "baseline_score": 87.13,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 85.7, future 86.1. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.3, future 86.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 74.5, future 76.8. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_004",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.37,
+        "baseline_score": 92.08,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.2, future 93.6. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_005",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 84.3,
+        "baseline_score": 84.0,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 82.4, future 82.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 83.7, future 82.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 69.9, future 72.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_006",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.2,
+        "baseline_score": 91.91,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.5, future 92.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_007",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.89,
+        "baseline_score": 91.59,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 91.2, future 91.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_008",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 92.39,
+        "baseline_score": 92.1,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.5, future 93.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.4, future 90.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 83.4, future 85.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_009",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 90.24,
+        "baseline_score": 89.94,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 89.9, future 90.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.4, future 87.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 80.4, future 82.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_010",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 87.06,
+        "baseline_score": 86.77,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 87.7, future 88.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 84.2, future 82.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 75.2, future 77.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_011",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.07,
+        "baseline_score": 93.78,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 94.3, future 94.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_012",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 93.98,
+        "baseline_score": 93.69,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.9, future 94.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_013",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.27,
+        "baseline_score": 91.97,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 94.6, future 95.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_014",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 90.95,
+        "baseline_score": 90.66,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.3, future 92.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_015",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 95.41,
+        "baseline_score": 95.11,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.6, future 97.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 96.4, future 94.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 87.4, future 89.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_016",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.81,
+        "baseline_score": 92.51,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.7, future 97.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_017",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 85.56,
+        "baseline_score": 85.27,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 85.7, future 86.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 82.2, future 80.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 73.2, future 75.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_018",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 87.11,
+        "baseline_score": 86.82,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 87.9, future 88.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 84.2, future 82.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 75.2, future 77.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_019",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 95.09,
+        "baseline_score": 94.8,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.3, future 95.8. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 96.4, future 94.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 87.4, future 89.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_020",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.19,
+        "baseline_score": 90.9,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.2, future 93.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_021",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.09,
+        "baseline_score": 91.8,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.9, future 94.3. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_022",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 90.2,
+        "baseline_score": 89.91,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 89.8, future 90.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.4, future 87.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 80.4, future 82.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_023",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 95.48,
+        "baseline_score": 95.19,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.9, future 97.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 96.4, future 94.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 87.4, future 89.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_024",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 89.88,
+        "baseline_score": 89.59,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.0, future 93.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 87.2, future 85.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 78.2, future 80.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_025",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 85.56,
+        "baseline_score": 85.27,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 85.8, future 86.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 82.2, future 80.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 73.2, future 75.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_026",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 87.0,
+        "baseline_score": 86.7,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 87.5, future 87.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 84.2, future 82.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 75.2, future 77.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_027",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.16,
+        "baseline_score": 90.86,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.1, future 93.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_028",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.75,
+        "baseline_score": 94.46,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 94.0, future 94.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 96.4, future 94.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 87.4, future 89.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_029",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 90.19,
+        "baseline_score": 89.89,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 89.7, future 90.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.4, future 87.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 80.4, future 82.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_030",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.38,
+        "baseline_score": 94.08,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.5, future 95.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_031",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.75,
+        "baseline_score": 91.46,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.5, future 95.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_032",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.82,
+        "baseline_score": 92.53,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.0, future 95.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_033",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 92.06,
+        "baseline_score": 91.76,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 91.2, future 91.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.4, future 90.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 83.4, future 85.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_034",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.17,
+        "baseline_score": 90.88,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.2, future 93.6. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_035",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.35,
+        "baseline_score": 94.06,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.4, future 92.8. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 96.4, future 94.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 87.4, future 89.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_036",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.78,
+        "baseline_score": 92.49,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 94.8, future 95.3. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_037",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.86,
+        "baseline_score": 92.56,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.9, future 97.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_038",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.83,
+        "baseline_score": 92.54,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.8, future 97.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_039",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.76,
+        "baseline_score": 92.47,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.5, future 97.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_040",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 90.8,
+        "baseline_score": 90.51,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 91.7, future 92.1. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_041",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 90.66,
+        "baseline_score": 90.37,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 91.2, future 91.6. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_042",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.04,
+        "baseline_score": 91.75,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.7, future 94.1. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_043",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 88.7,
+        "baseline_score": 88.41,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 87.8, future 88.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 87.4, future 85.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 78.4, future 80.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_044",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.31,
+        "baseline_score": 94.02,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.2, future 95.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_045",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.31,
+        "baseline_score": 94.02,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.2, future 95.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_046",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.22,
+        "baseline_score": 93.92,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 94.8, future 95.3. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_047",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.17,
+        "baseline_score": 91.99,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.8, future 84.2. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_048",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.16,
+        "baseline_score": 91.87,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 94.2, future 94.6. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_049",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.74,
+        "baseline_score": 92.56,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.1, future 86.5. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_050",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.57,
+        "baseline_score": 94.39,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 90.1, future 88.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 87.4, future 89.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_051",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.02,
+        "baseline_score": 91.83,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.2, future 83.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_052",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.65,
+        "baseline_score": 91.47,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.2, future 83.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_053",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.66,
+        "baseline_score": 91.47,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.2, future 83.7. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_054",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.19,
+        "baseline_score": 92.01,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.9, future 84.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_055",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.37,
+        "baseline_score": 92.18,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 86.5, future 85.0. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_056",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.86,
+        "baseline_score": 92.68,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.5, future 87.0. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_057",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.16,
+        "baseline_score": 90.87,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.0, future 93.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.2, future 90.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 78.3, future 80.6. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_058",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.71,
+        "baseline_score": 91.41,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.3, future 95.8. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_059",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.78,
+        "baseline_score": 92.49,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.6, future 97.1. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_060",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.03,
+        "baseline_score": 91.84,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.2, future 83.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_061",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.15,
+        "baseline_score": 91.97,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.7, future 84.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_062",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.38,
+        "baseline_score": 92.19,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 86.6, future 85.0. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_063",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.99,
+        "baseline_score": 92.81,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.1, future 87.5. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_064",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.38,
+        "baseline_score": 94.09,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.5, future 96.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_065",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 92.5,
+        "baseline_score": 92.21,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.0, future 93.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.4, future 90.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 83.4, future 85.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_066",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.41,
+        "baseline_score": 94.12,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.6, future 96.1. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_067",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.82,
+        "baseline_score": 92.53,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 96.8, future 97.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_068",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.17,
+        "baseline_score": 91.98,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.8, future 84.2. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_069",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.28,
+        "baseline_score": 92.1,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 86.2, future 84.7. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_070",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.96,
+        "baseline_score": 92.78,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.9, future 87.4. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_071",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 89.72,
+        "baseline_score": 89.43,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 87.9, future 88.3. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.4, future 87.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 80.4, future 82.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_072",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.73,
+        "baseline_score": 91.44,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.4, future 95.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_073",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.76,
+        "baseline_score": 91.47,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.5, future 96.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_074",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.39,
+        "baseline_score": 92.21,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 86.7, future 85.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_075",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.15,
+        "baseline_score": 93.85,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 98.5, future 98.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.0, future 89.4. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_076",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.63,
+        "baseline_score": 92.45,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 87.6, future 86.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_077",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.78,
+        "baseline_score": 92.6,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.2, future 86.7. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_078",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 92.03,
+        "baseline_score": 91.73,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 91.1, future 91.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.4, future 90.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 83.4, future 85.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_079",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.78,
+        "baseline_score": 91.48,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.6, future 96.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_080",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 95.51,
+        "baseline_score": 95.22,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 97.0, future 97.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 96.4, future 94.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 87.4, future 89.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_081",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.05,
+        "baseline_score": 91.87,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 85.3, future 83.7. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_082",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.48,
+        "baseline_score": 92.3,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 87.0, future 85.4. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_083",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 90.96,
+        "baseline_score": 90.67,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.3, future 92.8. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_084",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.72,
+        "baseline_score": 92.54,
+        "score_change": 0.18,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 100.0, future 100.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.0, future 86.4. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_085",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 93.79,
+        "baseline_score": 93.5,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.2, future 93.6. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_086",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 92.47,
+        "baseline_score": 92.18,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.9, future 93.3. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.4, future 90.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 83.4, future 85.7. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_087",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 94.05,
+        "baseline_score": 93.76,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 94.2, future 94.6. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_088",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 92.48,
+        "baseline_score": 92.19,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.4, future 95.8. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_089",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.84,
+        "baseline_score": 91.55,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.9, future 93.3. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_090",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 84.99,
+        "baseline_score": 84.7,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 83.5, future 83.9. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 82.2, future 80.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 73.2, future 75.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_091",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.69,
+        "baseline_score": 91.39,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.2, future 92.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 91.2, future 89.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 82.2, future 84.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_092",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "crop_ids": "['rice', 'chickpea', 'tomato']",
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']",
+        "future_score": 93.81,
+        "baseline_score": 93.52,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.2, future 93.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.9, future 93.3. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Tomato (summer): baseline 85.9, future 88.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_093",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.2,
+        "baseline_score": 90.91,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.3, future 93.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_094",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.7,
+        "baseline_score": 91.41,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 95.3, future 95.7. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_095",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.15,
+        "baseline_score": 90.86,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 93.1, future 93.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 89.7, future 88.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_096",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 89.06,
+        "baseline_score": 88.77,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 89.8, future 90.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 87.2, future 85.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 78.2, future 80.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_097",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 88.98,
+        "baseline_score": 88.69,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 89.4, future 89.8. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 87.2, future 85.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 78.2, future 80.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_098",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 86.31,
+        "baseline_score": 86.02,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 84.7, future 85.2. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 84.2, future 82.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 75.2, future 77.5. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_099",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 84.46,
+        "baseline_score": 84.16,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 83.1, future 83.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 83.7, future 82.1. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 69.9, future 72.2. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_100",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 88.02,
+        "baseline_score": 87.72,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 88.1, future 88.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.3, future 86.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 74.5, future 76.8. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_101",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 90.94,
+        "baseline_score": 90.64,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 92.1, future 92.5. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.2, future 90.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 78.3, future 80.6. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_102",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 91.82,
+        "baseline_score": 91.53,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 91.0, future 91.4. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 94.5, future 92.9. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 80.7, future 83.0. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_104",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 90.05,
+        "baseline_score": 89.75,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 88.5, future 89.0. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 92.2, future 90.6. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 78.3, future 80.6. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_105",
+        "target_year": 2027,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "crop_ids": "['rice', 'chickpea', 'onion']",
+        "crop_names": "['Rice', 'Chickpea', 'Onion']",
+        "future_score": 86.72,
+        "baseline_score": 86.42,
+        "score_change": 0.29,
+        "rank": 1,
+        "recommendation_changed": false,
+        "explanation": "Rice (kharif): baseline 82.9, future 83.3. Rainfall outlook for kharif: 1710.0 mm versus historical seasonal mean 1577.1 mm. Water-demand adjustment: +1.5 points. Historical 7-day dry-spell risk adjustment: -1.1 points. | Chickpea (rabi): baseline 88.3, future 86.8. Rainfall outlook for rabi: 117.1 mm versus historical seasonal mean 103.6 mm. Water-demand adjustment: -1.6 points. | Onion (summer): baseline 74.5, future 76.8. Rainfall outlook for summer: 49.4 mm versus historical seasonal mean 35.7 mm. Water-demand adjustment: +2.3 points. | A legume follows a non-legume crop. | No basic sequence penalty triggered."
+      }
+    }
+  ]
+}

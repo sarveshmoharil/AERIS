@@ -1,0 +1,37 @@
+{
+  "engine_version": "1.0",
+  "database_version": "1.0",
+  "region": "Nashik-area bounding box",
+  "locations": 105,
+  "crop_count": 16,
+  "seasons_evaluated": [
+    "kharif",
+    "rabi",
+    "summer"
+  ],
+  "evaluations": 5040,
+  "ranked_recommendations": 2808,
+  "weights": {
+    "soil_ph": 20,
+    "soil_texture": 15,
+    "temperature": 15,
+    "soil_moisture": 15,
+    "rainfall": 20,
+    "slope": 10,
+    "season": 5
+  },
+  "score_type": "weighted environmental screening score",
+  "not_a_yield_prediction": true,
+  "outputs": {
+    "all": "E:\\TrialShit\\aeris\\data\\processed\\crop_suitability\\crop_suitability_all.csv",
+    "ranked": "E:\\TrialShit\\aeris\\data\\processed\\crop_suitability\\crop_suitability_ranked.csv"
+  },
+  "classification_counts": {
+    "out_of_season": 2205,
+    "moderate": 1583,
+    "high": 1134,
+    "marginal": 91,
+    "insufficient_evidence": 27
+  },
+  "average_evidence_coverage": 0.9357142857142857
+}

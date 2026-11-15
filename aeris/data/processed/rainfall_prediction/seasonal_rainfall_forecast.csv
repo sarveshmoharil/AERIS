@@ -1,0 +1,5 @@
+target_year,season,forecast_mm,lower_80_mm,upper_80_mm,historical_mean_mm,recent_15_year_mean_mm,trend_component_mm,historical_observations
+2027,kharif,1710.05,1504.85,2164.6,1577.14,1652.67,1843.92,26
+2027,post_monsoon,100.57,60.74,164.57,93.01,94.51,114.73,25
+2027,winter,16.49,8.17,32.74,10.56,15.13,19.67,25
+2027,summer,49.35,26.9,80.75,35.72,45.27,58.85,26

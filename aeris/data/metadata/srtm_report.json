@@ -1,0 +1,33 @@
+{
+  "source": "SRTM-derived elevation tiles",
+  "source_resolution": "1 arc-second (~30 m)",
+  "processing_crs": "EPSG:32643",
+  "bbox": [
+    73.45,
+    19.4,
+    74.15,
+    20.56
+  ],
+  "tiles": [
+    "N18E073",
+    "N18E074",
+    "N19E073",
+    "N19E074",
+    "N20E073",
+    "N20E074",
+    "N21E073",
+    "N21E074"
+  ],
+  "generated_utc": "2026-11-14T07:23:07.625630+00:00",
+  "valid_pixels": 10628954,
+  "elevation_min_m": 66.67235565185547,
+  "elevation_max_m": 1522.0992431640625,
+  "elevation_mean_m": 633.8585205078125,
+  "slope_mean_degrees": 6.809008598327637,
+  "slope_max_degrees": 76.95747375488281,
+  "outputs": [
+    "elevation_m",
+    "slope_degrees",
+    "aspect_degrees"
+  ]
+}

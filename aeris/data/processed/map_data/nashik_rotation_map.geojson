@@ -1,0 +1,2002 @@
+{
+  "type": "FeatureCollection",
+  "name": "AERIS_Nashik_Rotation_Recommendations",
+  "description": "Top-ranked annual crop rotation per sampled SMAP grid location in the Nashik-area bounding box.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_001",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 80.16,
+        "average_suitability": 73.54,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_002",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 80.25,
+        "average_suitability": 73.67,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_003",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 76.64,
+        "average_suitability": 68.85,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_004",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 79.85,
+        "average_suitability": 73.14,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_005",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 74.61,
+        "average_suitability": 66.14,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_006",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 79.74,
+        "average_suitability": 72.99,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.462916674982402
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_007",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 79.54,
+        "average_suitability": 72.72,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_008",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 92.1,
+        "average_suitability": 89.46,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_009",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 89.94,
+        "average_suitability": 86.59,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_010",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 86.77,
+        "average_suitability": 82.36,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_011",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 93.78,
+        "average_suitability": 91.7,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_012",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 93.69,
+        "average_suitability": 91.59,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_013",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.97,
+        "average_suitability": 89.3,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.537712517864612
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_014",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.66,
+        "average_suitability": 87.55,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_015",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 95.11,
+        "average_suitability": 93.48,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_016",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 92.51,
+        "average_suitability": 90.02,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_017",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 85.27,
+        "average_suitability": 80.36,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_018",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 86.82,
+        "average_suitability": 82.42,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_019",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.8,
+        "average_suitability": 93.06,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_020",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.9,
+        "average_suitability": 87.86,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.612542200259767
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_021",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.8,
+        "average_suitability": 89.07,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_022",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 89.91,
+        "average_suitability": 86.54,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_023",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 95.19,
+        "average_suitability": 93.59,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_024",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 89.59,
+        "average_suitability": 86.12,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_025",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 85.27,
+        "average_suitability": 80.36,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_026",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 86.7,
+        "average_suitability": 82.27,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_027",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.86,
+        "average_suitability": 87.82,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.687405894048997
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_028",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.46,
+        "average_suitability": 92.61,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_029",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 89.89,
+        "average_suitability": 86.53,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_030",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.08,
+        "average_suitability": 92.11,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_031",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.46,
+        "average_suitability": 88.61,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_032",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 80.14,
+        "average_suitability": 73.52,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_033",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 91.76,
+        "average_suitability": 89.02,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_034",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.88,
+        "average_suitability": 87.84,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.76230377174457
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_035",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.06,
+        "average_suitability": 92.08,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_036",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 80.12,
+        "average_suitability": 73.49,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_037",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 92.56,
+        "average_suitability": 90.09,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_038",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 92.54,
+        "average_suitability": 90.05,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_039",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 92.47,
+        "average_suitability": 89.95,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_040",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.51,
+        "average_suitability": 87.35,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_041",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.37,
+        "average_suitability": 87.16,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.83723600649465
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_042",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.75,
+        "average_suitability": 89.0,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_043",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 88.41,
+        "average_suitability": 84.54,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_044",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.02,
+        "average_suitability": 92.02,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_045",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.02,
+        "average_suitability": 92.02,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_046",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 93.92,
+        "average_suitability": 91.9,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_047",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.32,
+        "average_suitability": 89.76,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_048",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.87,
+        "average_suitability": 89.16,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.912202772088005
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_049",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.84,
+        "average_suitability": 90.45,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_050",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.39,
+        "average_suitability": 92.52,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_051",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.16,
+        "average_suitability": 89.55,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_052",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 79.78,
+        "average_suitability": 73.05,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_053",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 79.79,
+        "average_suitability": 73.06,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_054",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.34,
+        "average_suitability": 89.79,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_055",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.52,
+        "average_suitability": 90.02,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          19.987204242958757
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_056",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.84,
+        "average_suitability": 90.45,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_057",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 79.07,
+        "average_suitability": 72.09,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_058",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.41,
+        "average_suitability": 88.55,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_059",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 92.49,
+        "average_suitability": 89.99,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_060",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.17,
+        "average_suitability": 89.57,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_061",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.3,
+        "average_suitability": 89.73,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_062",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.53,
+        "average_suitability": 90.04,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.06224059419125
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_063",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.84,
+        "average_suitability": 90.45,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_064",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.09,
+        "average_suitability": 92.12,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_065",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 92.21,
+        "average_suitability": 89.61,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_066",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 94.12,
+        "average_suitability": 92.16,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_067",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 92.53,
+        "average_suitability": 90.03,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_068",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.32,
+        "average_suitability": 89.76,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_069",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.43,
+        "average_suitability": 89.91,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.13731200152484
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_070",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.84,
+        "average_suitability": 90.45,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_071",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 89.43,
+        "average_suitability": 85.91,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_072",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.44,
+        "average_suitability": 88.59,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_073",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.47,
+        "average_suitability": 88.62,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_074",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.54,
+        "average_suitability": 90.05,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_075",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 93.85,
+        "average_suitability": 91.8,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_076",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.78,
+        "average_suitability": 90.38,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.212418641358827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_077",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.84,
+        "average_suitability": 90.45,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_078",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 91.73,
+        "average_suitability": 88.98,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_079",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.48,
+        "average_suitability": 88.64,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_080",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 95.22,
+        "average_suitability": 93.63,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_081",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.2,
+        "average_suitability": 89.6,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_082",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.63,
+        "average_suitability": 90.17,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_083",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.67,
+        "average_suitability": 87.56,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.28756069075735
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_084",
+        "rank": 1,
+        "rotation": "Rice -> Onion -> Green Gram",
+        "rotation_score": 92.84,
+        "average_suitability": 90.45,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Onion', 'Green Gram']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_085",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 93.5,
+        "average_suitability": 91.33,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_086",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 92.18,
+        "average_suitability": 89.58,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_087",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 93.76,
+        "average_suitability": 91.68,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_088",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 92.19,
+        "average_suitability": 89.58,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_089",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.55,
+        "average_suitability": 88.74,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_090",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 84.7,
+        "average_suitability": 79.6,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.362738327454355
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_091",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.39,
+        "average_suitability": 88.52,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_092",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Tomato",
+        "rotation_score": 93.52,
+        "average_suitability": 91.36,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Tomato']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_093",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.91,
+        "average_suitability": 87.88,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_094",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 91.41,
+        "average_suitability": 88.54,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_095",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 90.86,
+        "average_suitability": 87.81,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_096",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 88.77,
+        "average_suitability": 85.03,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_097",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 88.69,
+        "average_suitability": 84.91,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.437951729858632
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_098",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 86.02,
+        "average_suitability": 81.35,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52178793713323,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_099",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 74.71,
+        "average_suitability": 66.28,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6151489376883,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_100",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 77.02,
+        "average_suitability": 69.36,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7085099382434,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_101",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 78.92,
+        "average_suitability": 71.89,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80187093879849,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_102",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 79.5,
+        "average_suitability": 72.66,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89523193935358,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_103",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 79.57,
+        "average_suitability": 72.76,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98859293990867,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_104",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 78.34,
+        "average_suitability": 71.12,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08195394046376,
+          20.513201077058827
+        ]
+      },
+      "properties": {
+        "location_id": "LOC_105",
+        "rank": 1,
+        "rotation": "Rice -> Chickpea -> Onion",
+        "rotation_score": 76.17,
+        "average_suitability": 68.23,
+        "rotation_compatibility": 100.0,
+        "crop_names": "['Rice', 'Chickpea', 'Onion']"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+crop_name,season,mean_suitability,mean_rainfall_score,evaluations
+Black Gram,kharif,69.09,0.0,105
+Chickpea,kharif,0.0,0.0,105
+Cotton,kharif,73.57,0.0,105
+Finger Millet,kharif,71.38,0.0,105
+Green Gram,kharif,69.09,0.0,105
+Groundnut,kharif,70.22,0.0,105
+Pearl Millet,kharif,69.84,0.0,105
+Pigeon Pea,kharif,71.38,0.0,105
+Pomegranate,kharif,66.38,0.0,105
+Soybean,kharif,71.67,0.0,105
+Wheat,kharif,0.0,0.0,105
+Grapes,kharif,71.58,24.57,105
+Maize,kharif,76.58,24.57,105
+Onion,kharif,75.13,24.57,105
+Tomato,kharif,76.58,24.57,105
+Rice,kharif,90.94,100.0,105
+Rice,rabi,0.0,0.0,105
+Grapes,rabi,73.08,32.03,105
+Maize,rabi,78.08,32.03,105
+Onion,rabi,76.63,32.03,105
+Tomato,rabi,78.08,32.03,105
+Cotton,rabi,0.0,52.03,105
+Groundnut,rabi,0.0,52.03,105
+Soybean,rabi,0.0,52.03,105
+Wheat,rabi,82.08,52.03,105
+Black Gram,rabi,0.0,72.03,105
+Finger Millet,rabi,0.0,72.03,105
+Green Gram,rabi,0.0,72.03,105
+Pigeon Pea,rabi,0.0,72.03,105
+Pomegranate,rabi,80.79,72.03,105
+Chickpea,rabi,87.09,82.03,105
+Pearl Millet,rabi,0.0,82.03,105
+Rice,summer,0.0,0.0,105
+Grapes,summer,74.1,37.14,105
+Maize,summer,0.0,37.14,105
+Onion,summer,77.65,37.14,105
+Tomato,summer,79.1,37.14,105
+Cotton,summer,0.0,57.14,105
+Groundnut,summer,0.0,57.14,105
+Soybean,summer,0.0,57.14,105
+Wheat,summer,0.0,57.14,105
+Black Gram,summer,85.36,77.14,105
+Finger Millet,summer,0.0,77.14,105
+Green Gram,summer,85.36,77.14,105
+Pigeon Pea,summer,0.0,77.14,105
+Pomegranate,summer,81.81,77.14,105
+Chickpea,summer,0.0,87.14,105
+Pearl Millet,summer,0.0,87.14,105

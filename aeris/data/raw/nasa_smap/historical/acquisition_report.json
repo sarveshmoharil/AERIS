@@ -1,0 +1,19 @@
+{
+  "dataset": "NASA SMAP SPL4SMGP",
+  "collection_version": "008",
+  "variable": "sm_rootzone",
+  "units": "m3 m-3",
+  "bbox": {
+    "south": 19.5,
+    "north": 20.5,
+    "west": 73.5,
+    "east": 74.1
+  },
+  "observations": 168,
+  "workers": 4,
+  "results": {
+    "downloaded": 168,
+    "skipped": 0,
+    "failed": 0
+  }
+}

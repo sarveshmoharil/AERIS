@@ -1,0 +1,648 @@
+{
+  "engine": "AERIS Rotation Analytics",
+  "version": "1.0",
+  "region": "Nashik-area bounding box",
+  "overview": {
+    "locations": 105,
+    "rotation_records": 1050,
+    "suitability_evaluations": 5040,
+    "environmental_features": 71
+  },
+  "rotation_score_statistics": {
+    "mean": 89.34,
+    "median": 91.75,
+    "minimum": 74.61,
+    "maximum": 95.22,
+    "standard_deviation": 5.51
+  },
+  "score_distribution": {
+    "Very high": 71,
+    "High": 19,
+    "Moderate": 15
+  },
+  "top_rotations": [
+    {
+      "rotation": "Rice -> Chickpea -> Onion",
+      "location_count": 55,
+      "percentage": 52.38
+    },
+    {
+      "rotation": "Rice -> Chickpea -> Tomato",
+      "location_count": 29,
+      "percentage": 27.62
+    },
+    {
+      "rotation": "Rice -> Onion -> Green Gram",
+      "location_count": 21,
+      "percentage": 20.0
+    }
+  ],
+  "crop_frequency": [
+    {
+      "crop": "Rice",
+      "location_count": 105,
+      "percentage": 100.0
+    },
+    {
+      "crop": "Chickpea",
+      "location_count": 84,
+      "percentage": 80.0
+    },
+    {
+      "crop": "Onion",
+      "location_count": 76,
+      "percentage": 72.38
+    },
+    {
+      "crop": "Tomato",
+      "location_count": 29,
+      "percentage": 27.62
+    },
+    {
+      "crop": "Green Gram",
+      "location_count": 21,
+      "percentage": 20.0
+    }
+  ],
+  "best_locations": [
+    {
+      "location_id": "LOC_080",
+      "latitude": 20.28756069075735,
+      "longitude": 73.7085099382434,
+      "rotation": "Rice -> Chickpea -> Tomato",
+      "rotation_score": 95.22,
+      "average_suitability": 93.63,
+      "rotation_compatibility": 100.0,
+      "score_band": "Very high"
+    },
+    {
+      "location_id": "LOC_023",
+      "latitude": 19.687405894048997,
+      "longitude": 73.6151489376883,
+      "rotation": "Rice -> Chickpea -> Tomato",
+      "rotation_score": 95.19,
+      "average_suitability": 93.59,
+      "rotation_compatibility": 100.0,
+      "score_band": "Very high"
+    },
+    {
+      "location_id": "LOC_015",
+      "latitude": 19.612542200259767,
+      "longitude": 73.52178793713323,
+      "rotation": "Rice -> Chickpea -> Tomato",
+      "rotation_score": 95.11,
+      "average_suitability": 93.48,
+      "rotation_compatibility": 100.0,
+      "score_band": "Very high"
+    },
+    {
+      "location_id": "LOC_019",
+      "latitude": 19.612542200259767,
+      "longitude": 73.89523193935358,
+      "rotation": "Rice -> Chickpea -> Tomato",
+      "rotation_score": 94.8,
+      "average_suitability": 93.06,
+      "rotation_compatibility": 100.0,
+      "score_band": "Very high"
+    },
+    {
+      "location_id": "LOC_028",
+      "latitude": 19.687405894048997,
+      "longitude": 74.08195394046376,
+      "rotation": "Rice -> Chickpea -> Tomato",
+      "rotation_score": 94.46,
+      "average_suitability": 92.61,
+      "rotation_compatibility": 100.0,
+      "score_band": "Very high"
+    }
+  ],
+  "weakest_locations": [
+    {
+      "location_id": "LOC_005",
+      "latitude": 19.462916674982402,
+      "longitude": 73.89523193935358,
+      "rotation": "Rice -> Chickpea -> Onion",
+      "rotation_score": 74.61,
+      "average_suitability": 66.14,
+      "rotation_compatibility": 100.0,
+      "score_band": "Moderate"
+    },
+    {
+      "location_id": "LOC_099",
+      "latitude": 20.513201077058827,
+      "longitude": 73.52178793713323,
+      "rotation": "Rice -> Chickpea -> Onion",
+      "rotation_score": 74.71,
+      "average_suitability": 66.28,
+      "rotation_compatibility": 100.0,
+      "score_band": "Moderate"
+    },
+    {
+      "location_id": "LOC_105",
+      "latitude": 20.513201077058827,
+      "longitude": 74.08195394046376,
+      "rotation": "Rice -> Chickpea -> Onion",
+      "rotation_score": 76.17,
+      "average_suitability": 68.23,
+      "rotation_compatibility": 100.0,
+      "score_band": "Moderate"
+    },
+    {
+      "location_id": "LOC_003",
+      "latitude": 19.462916674982402,
+      "longitude": 73.7085099382434,
+      "rotation": "Rice -> Chickpea -> Onion",
+      "rotation_score": 76.64,
+      "average_suitability": 68.85,
+      "rotation_compatibility": 100.0,
+      "score_band": "Moderate"
+    },
+    {
+      "location_id": "LOC_100",
+      "latitude": 20.513201077058827,
+      "longitude": 73.6151489376883,
+      "rotation": "Rice -> Chickpea -> Onion",
+      "rotation_score": 77.02,
+      "average_suitability": 69.36,
+      "rotation_compatibility": 100.0,
+      "score_band": "Moderate"
+    }
+  ],
+  "environmental_factor_analysis": [
+    {
+      "factor": "season",
+      "mean_score": 43.75,
+      "minimum_score": 0.0,
+      "observations": 5040,
+      "low_score_count": 2835,
+      "low_score_percentage": 56.25
+    },
+    {
+      "factor": "rainfall",
+      "mean_score": 41.58,
+      "minimum_score": 0.0,
+      "observations": 5040,
+      "low_score_count": 2625,
+      "low_score_percentage": 52.08
+    },
+    {
+      "factor": "slope",
+      "mean_score": 81.25,
+      "minimum_score": 10.0,
+      "observations": 4992,
+      "low_score_count": 672,
+      "low_score_percentage": 13.46
+    },
+    {
+      "factor": "soil_moisture",
+      "mean_score": 97.06,
+      "minimum_score": 44.79,
+      "observations": 5040,
+      "low_score_count": 3,
+      "low_score_percentage": 0.06
+    },
+    {
+      "factor": "soil_ph",
+      "mean_score": 100.0,
+      "minimum_score": 100.0,
+      "observations": 4128,
+      "low_score_count": 0,
+      "low_score_percentage": 0.0
+    },
+    {
+      "factor": "soil_texture",
+      "mean_score": 76.75,
+      "minimum_score": 65.0,
+      "observations": 4128,
+      "low_score_count": 0,
+      "low_score_percentage": 0.0
+    },
+    {
+      "factor": "temperature",
+      "mean_score": 95.96,
+      "minimum_score": 56.37,
+      "observations": 5040,
+      "low_score_count": 0,
+      "low_score_percentage": 0.0
+    }
+  ],
+  "crop_suitability": [
+    {
+      "crop_name": "Rice",
+      "season": "kharif",
+      "average_score": 94.0,
+      "maximum_score": 100.0,
+      "minimum_score": 82.43,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Maize",
+      "season": "kharif",
+      "average_score": 78.54,
+      "maximum_score": 84.91,
+      "minimum_score": 66.02,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Tomato",
+      "season": "kharif",
+      "average_score": 78.54,
+      "maximum_score": 84.91,
+      "minimum_score": 66.02,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Onion",
+      "season": "kharif",
+      "average_score": 77.09,
+      "maximum_score": 79.66,
+      "minimum_score": 66.02,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Cotton",
+      "season": "kharif",
+      "average_score": 75.98,
+      "maximum_score": 80.0,
+      "minimum_score": 58.46,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Soybean",
+      "season": "kharif",
+      "average_score": 73.13,
+      "maximum_score": 80.0,
+      "minimum_score": 58.46,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Grapes",
+      "season": "kharif",
+      "average_score": 73.04,
+      "maximum_score": 79.91,
+      "minimum_score": 58.33,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Finger Millet",
+      "season": "kharif",
+      "average_score": 72.81,
+      "maximum_score": 80.0,
+      "minimum_score": 58.46,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pigeon Pea",
+      "season": "kharif",
+      "average_score": 72.81,
+      "maximum_score": 80.0,
+      "minimum_score": 58.46,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Groundnut",
+      "season": "kharif",
+      "average_score": 71.68,
+      "maximum_score": 74.75,
+      "minimum_score": 58.46,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pearl Millet",
+      "season": "kharif",
+      "average_score": 71.16,
+      "maximum_score": 79.16,
+      "minimum_score": 57.16,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Black Gram",
+      "season": "kharif",
+      "average_score": 70.43,
+      "maximum_score": 73.91,
+      "minimum_score": 57.16,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Green Gram",
+      "season": "kharif",
+      "average_score": 70.43,
+      "maximum_score": 73.91,
+      "minimum_score": 57.16,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pomegranate",
+      "season": "kharif",
+      "average_score": 67.31,
+      "maximum_score": 75.0,
+      "minimum_score": 50.77,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Chickpea",
+      "season": "kharif",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Wheat",
+      "season": "kharif",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Chickpea",
+      "season": "rabi",
+      "average_score": 90.13,
+      "maximum_score": 96.41,
+      "minimum_score": 82.16,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Wheat",
+      "season": "rabi",
+      "average_score": 84.59,
+      "maximum_score": 90.41,
+      "minimum_score": 74.47,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pomegranate",
+      "season": "rabi",
+      "average_score": 83.16,
+      "maximum_score": 89.41,
+      "minimum_score": 72.93,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Maize",
+      "season": "rabi",
+      "average_score": 80.19,
+      "maximum_score": 86.41,
+      "minimum_score": 68.32,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Tomato",
+      "season": "rabi",
+      "average_score": 80.19,
+      "maximum_score": 86.41,
+      "minimum_score": 68.32,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Onion",
+      "season": "rabi",
+      "average_score": 78.74,
+      "maximum_score": 81.16,
+      "minimum_score": 68.32,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Grapes",
+      "season": "rabi",
+      "average_score": 74.68,
+      "maximum_score": 81.41,
+      "minimum_score": 60.62,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Black Gram",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Cotton",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Finger Millet",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Green Gram",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Groundnut",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pearl Millet",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pigeon Pea",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Rice",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Soybean",
+      "season": "rabi",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Black Gram",
+      "season": "summer",
+      "average_score": 88.33,
+      "maximum_score": 92.97,
+      "minimum_score": 81.18,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Green Gram",
+      "season": "summer",
+      "average_score": 88.33,
+      "maximum_score": 92.97,
+      "minimum_score": 81.18,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pomegranate",
+      "season": "summer",
+      "average_score": 84.28,
+      "maximum_score": 90.43,
+      "minimum_score": 74.51,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Tomato",
+      "season": "summer",
+      "average_score": 81.31,
+      "maximum_score": 87.43,
+      "minimum_score": 69.89,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Onion",
+      "season": "summer",
+      "average_score": 79.86,
+      "maximum_score": 82.18,
+      "minimum_score": 69.89,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Grapes",
+      "season": "summer",
+      "average_score": 75.81,
+      "maximum_score": 82.43,
+      "minimum_score": 62.2,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Chickpea",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Cotton",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Finger Millet",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Groundnut",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Maize",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pearl Millet",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Pigeon Pea",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Rice",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Soybean",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    },
+    {
+      "crop_name": "Wheat",
+      "season": "summer",
+      "average_score": 0.0,
+      "maximum_score": 0.0,
+      "minimum_score": 0.0,
+      "locations_evaluated": 105
+    }
+  ],
+  "climate_overview": {
+    "T2M_monsoon_mean": 24.55,
+    "T2M_MAX_monsoon_mean": 28.156,
+    "T2M_MIN_monsoon_mean": 22.124,
+    "PRECTOTCORR_monsoon_mean": 12.927,
+    "PRECTOTCORR_monsoon_total_mean": 1577.143,
+    "T2M_post_monsoon_mean": 22.394,
+    "T2M_MAX_post_monsoon_mean": 28.742,
+    "T2M_MIN_post_monsoon_mean": 17.405,
+    "PRECTOTCORR_post_monsoon_mean": 1.497,
+    "PRECTOTCORR_post_monsoon_total_mean": 89.989,
+    "T2M_winter_mean": 21.578,
+    "T2M_MAX_winter_mean": 30.8,
+    "T2M_MIN_winter_mean": 14.476,
+    "PRECTOTCORR_winter_mean": 0.114,
+    "PRECTOTCORR_winter_total_mean": 10.154,
+    "T2M_summer_mean": 28.491,
+    "T2M_MAX_summer_mean": 37.595,
+    "T2M_MIN_summer_mean": 20.914,
+    "PRECTOTCORR_summer_mean": 0.388,
+    "PRECTOTCORR_summer_total_mean": 35.718,
+    "T2M_annual_mean": 24.463,
+    "T2M_MAX_annual_mean": 31.293,
+    "T2M_MIN_annual_mean": 19.161,
+    "PRECTOTCORR_annual_mean": 4.717
+  },
+  "interpretation_notes": [
+    "Scores represent environmental screening, not predicted yields.",
+    "The sampled points are from a Nashik-area bounding box, not a district-clipped grid.",
+    "Climate attributes are shared across locations because NASA POWER was sampled at one Nashik city point.",
+    "Low factor scores indicate model limitations or mismatches, not proven agronomic constraints.",
+    "Crop frequency counts appearances in the top rotation, not actual cultivated area."
+  ]
+}

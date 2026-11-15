@@ -1,0 +1,35 @@
+{
+  "engine": "SRO-01",
+  "name": "Spatial Rotation Optimizer",
+  "method": "Genetic algorithm",
+  "population_size": 70,
+  "generations": 50,
+  "mutation_rate": 0.2,
+  "targets": [
+    "G101",
+    "G102",
+    "G201",
+    "G202",
+    "G301",
+    "G302",
+    "G401",
+    "G402",
+    "NASHIK_REGION"
+  ],
+  "candidate_count": 26,
+  "environmental_profiles_loaded": 8,
+  "spatial_samples": 105,
+  "future_suitability_rows": 2808,
+  "outputs": {
+    "candidates": "E:\\TrialShit\\aeris\\data\\processed\\spatial_optimization\\rotation_optimizer_candidates.csv",
+    "generation_history": "E:\\TrialShit\\aeris\\data\\processed\\spatial_optimization\\optimization_generation_history.json"
+  },
+  "limitations": [
+    "This is a genetic algorithm, not a deep-learning model.",
+    "Fitness is based on heuristic crop suitability and rotation rules.",
+    "It does not predict yield or farm profitability.",
+    "Cell suitability is aggregated from sampled locations.",
+    "Rainfall inputs are shared Nashik city climate data.",
+    "Three alternatives are optimization candidates, not field-validated prescriptions."
+  ]
+}
